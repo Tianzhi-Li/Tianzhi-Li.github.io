@@ -3,11 +3,11 @@
 
 ~~~
 {Journal Papers}
-- [https://doi.org/10.1016/j.automatica.2024.111995 Variational unscented Kalman filter on matrix Lie groups]\n
+- [https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*]\n
 Tianzhi Li and Jinzhi Wang\n
 *Automatica*, 172: 111995, 2025. (Regular Paper)
 
-- [https://doi.org/10.1016/j.automatica.2024.111626 Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case]\n
+- [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*]\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n
 *Automatica*, 164: 111626, 2024. (Regular Paper)
 ~~~
@@ -15,21 +15,21 @@ Tianzhi Li, Rui Fu, and Jinzhi Wang\n
 
 ~~~
 {Conference Papers}
-- [https://doi.org/10.1007/978-3-031-38299-4_7 Multisymplectic unscented Kalman filter
- for geometrically exact beams]\n
+- [https://doi.org/10.1007/978-3-031-38299-4_7 *Multisymplectic unscented Kalman filter
+ for geometrically exact beams*]\n
 Tianzhi Li and Jinzhi Wang\n
 Proceedings of *Geometric Science of Information* 2023 (GSI). Lecture Notes in Computer
  Science 14072, pp. 60-68, 2023.
 
-- [https://doi.org/10.23919/CCC63176.2024.10662579 A structure-preserving learning scheme on SO(3)]\n
+- [https://doi.org/10.23919/CCC63176.2024.10662579 *A structure-preserving learning scheme on SO(3)*]\n
 Tianzhi Li and Jinzhi Wang\n
 2024 43rd *IEEE Chinese Control Conference* (CCC), Kunming, China, pp. 5149-5152, 2024.
 
-- [https://doi.org/10.23919/CCC58697.2023.10240513 A physics-informed Gaussian process regression algorithm for the dynamics of the planar pendulum]\n
+- [https://doi.org/10.23919/CCC58697.2023.10240513 *A physics-informed Gaussian process regression algorithm for the dynamics of the planar pendulum*]\n
 Tianzhi Li and Jinzhi Wang\n
 2023 42nd *IEEE Chinese Control Conference* (CCC), Tianjin, China, pp. 5163-5167, 2023.
 
-- [https://doi.org/CCDC55256.2022.10033975 A statistical dynamical algorithm for Gaussian multi-agent systems under Hamel's formalism]\n
+- [https://doi.org/CCDC55256.2022.10033975 *A statistical dynamical algorithm for Gaussian multi-agent systems under Hamel's formalism*]\n
 Tianzhi Li and Jinzhi Wang\n
  2022 34th *IEEE Chinese Control and Decision Conference* (CCDC), Hefei, China, pp. 1344-1349, 2022.
 ~~~

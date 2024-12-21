@@ -2,16 +2,16 @@
 ==Tianzhi Li  李天志
 
 ~~~
-{}{img_left}{pictures/tlee10.jpg}{alt text}{220}{240}{}
+{}{img_left}{pictures/tlee10.jpg}{alt text}{230}{250}{}
 Ph.D. Student \n
 [https://www.coe.pku.edu.cn/ Department of Mechanics and Engineering Science \n Peking University (PKU)] \n
 [https://www.ntu.edu.sg/spms/about-us/mathematics/ & Division of Mathematical Sciences \n Nanyang Technological University (NTU)] \n
 \n
+Email (NTU): [n2409573c@e.ntu.edu.sg n2409573c@e.ntu.edu.sg] \n
+Email (PKU): [tlee@stu.pku.edu.cn tlee@stu.pku.edu.cn] \n
 Website: [https://tianzhi-li.github.io]\n
 YouTube: [https://www.youtube.com/%40tianzhi_li] \n
-Email (Nanyang Tech. Univ.): n2409573c@e.ntu.edu.sg \n
-Email (Peking Univ.): tlee@stu.pku.edu.cn \n
-Address: 21 Nanyang Link, SPMS, Singapore 637371 \n
+[https://scholar.google.com/citations?hl=zh-CN&user=6d7QY0QAAAAJ *Google Scholar*] and  [https://www.researchgate.net/profile/Tianzhi-Li-3 *ResearchGate*] 
 ~~~
 
 
@@ -27,7 +27,9 @@ My research interest lies at the intersection of the following fields:\n
 - *Geometric Mechanics (Stochastic & Nonholonomic)*\n
 - *Variational Integrators*\n
 - *Information Geometry*\n
-- *Physics-Informed Learning*
+- *Physics-Informed Learning*\n
+
+Please see [https://scholar.google.com/citations?hl=zh-CN&user=6d7QY0QAAAAJ *Google Scholar*] and [https://www.researchgate.net/profile/Tianzhi-Li-3 *ResearchGate*] for more information.
 
 
 
@@ -37,21 +39,21 @@ My research interest lies at the intersection of the following fields:\n
 == Selected Research
 
 ~~~
-- [https://doi.org/10.1016/j.automatica.2024.111995 Variational unscented Kalman filter on matrix Lie groups], *Automatica*, 172: 111995, 2025. (Regular Paper) \n
- (Joint work with Prof. Jinzhi Wang) \n\n
+- [https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*], *Automatica*, 172: 111995, 2025. (Regular Paper) \n
+ (Joint work with [https://www.coe.pku.edu.cn/teaching/mechanics/10519.html Prof. Jinzhi Wang]) \n\n
 In this work, we proposed a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on Lie groups.  The obtained formulation is independent of the nonlinear Lie group state-space, and it sheds light on fully predicting and updating on the Lie algebra and its dual. In particular, these formulations can avoid singularities or the well-known gimbal lock in the attitude estimation problem. Numerical results show that the proposed UKF-Vs exhibit significant improvements in terms of the estimation error and mean square error.
 ~~~
 
 ~~~
-{}{img_left}{pictures/UKFV.jpg}{alt text}{600}{280}{}
+{}{img_left}{pictures/UKFV.jpg}{alt text}{600}{270}{}
 \n\n\n
 ~~~
 
 
 
 ~~~
-- [https://doi.org/10.1016/j.automatica.2024.111626 Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case], *Automatica*, 164: 111626, 2024.\n
- (Joint work with Profs. Rui Fu and Jinzhi Wang) \n\n
+- [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*], *Automatica*, 164: 111626, 2024.\n
+ (Joint work with [https://cacso.nju.edu.cn/8b/85/c55864a691077/page.htm Prof. Rui Fu] and [https://www.coe.pku.edu.cn/teaching/mechanics/10519.html Prof. Jinzhi Wang]) \n\n
 In this work, we studied the geometric structures of n-DOF Gaussian distributions and proposed a geometric optimal control algorithm for minimum-energy optimal control problem of Gaussian distributions.  The proposed reduced dynamics reduces the high nonlinearity appearing in the original non-Euclidean state space of a thermal process, and it is regarded as dynamical constraints in the geometric optimal control problem. The proposed approach is applied to three different scenarios, including two benchmark examples, to demonstrate the applicability and effectiveness.
 ~~~
 
@@ -73,15 +75,15 @@ In this work, we studied the geometric structures of n-DOF Gaussian distribution
 == News
 - *Dec 2024*: I am so happy and excited to be a visiting student under the supervision of [https://dr.ntu.edu.sg/cris/rp/rp02301 Prof. François Gay-Balmaz] at Nanyang Technological University (NTU) in Singapore!
 
-- *Sept 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111995 Variational unscented Kalman filter on matrix Lie groups] (Joint work with [https://www.coe.pku.edu.cn/teaching/mechanics/10519.html Prof. Jinzhi Wang]) is accepted to /Automatica/. In this work, we proposed a family of computationally efficient unscented Kalman filters for mechanical systems on Lie groups. 
+- *Sept 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*] (Joint work with [https://www.coe.pku.edu.cn/teaching/mechanics/10519.html Prof. Jinzhi Wang]) is accepted to *Automatica*. In this work, we proposed a family of computationally efficient unscented Kalman filters for mechanical systems on Lie groups. 
 
 - *July 2024*: I was thrilled to present "Stochastic Nonholonomic Variational Principle" at the Geometric Mechanics & Control Seminar (BIT) organized by [https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/sdh/index.htm Prof. Donghua Shi]. The discussion with [http://www.yoshimura.mech.waseda.ac.jp/Professor.html Prof. Hiroaki Yoshimura] and [http://www.peng.mech.keio.ac.jp/faculty/index.html Prof. Linyu Peng] was very insightful and interesting!
 
-- *July 2024*: I am so happy to announce that I am awarded the CSC Scholarship! I will be a visiting student of [https://dr.ntu.edu.sg/cris/rp/rp02301 Prof. François Gay-Balmaz] at Nanyang Technological University (NTU) for a 12-month academic visit.
+- *July 2024*: I am so happy to announce that I am awarded the *CSC Scholarship*! I will be a visiting student of [https://dr.ntu.edu.sg/cris/rp/rp02301 Prof. François Gay-Balmaz] at Nanyang Technological University (NTU) for a 12-month academic visit.
 
 - *April 2024*: I was thrilled to give a talk about my PhD work at Beijing Institute of Technology (BIT) invited by [https://hhy.nuaa.edu.cn/2024/0529/c12018a341286/page.htm Prof. Ju Chen] and [https://sae.bit.edu.cn/szdw20/szml/lxcx20/zgjzcapypx_3/b187454.htm Prof. Qiang Tian]. The discussion was very insightful and interesting!
 
-- *Feb 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111626 Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case] (Joint work with [https://cacso.nju.edu.cn/8b/85/c55864a691077/page.htm Prof. Rui Fu] and [https://www.coe.pku.edu.cn/teaching/mechanics/10519.html Prof. Jinzhi Wang]) is accepted to /Automatica/. In this work, we studied the geometric structures of n-DOF Gaussian distributions and proposed a geometric optimal control algorithm for the energy-minimum optimal control problem of Gaussian distributions. 
+- *Feb 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*] (Joint work with [https://cacso.nju.edu.cn/8b/85/c55864a691077/page.htm Prof. Rui Fu] and [https://www.coe.pku.edu.cn/teaching/mechanics/10519.html Prof. Jinzhi Wang]) is accepted to *Automatica*. In this work, we studied the geometric structures of n-DOF Gaussian distributions and proposed a geometric optimal control algorithm for the energy-minimum optimal control problem of Gaussian distributions. 
 
 - *August 2023*: I was thrilled to present "Multisymplectic Unscented Kalman Filter for Geometrically Exact Beams" at the 6th International Conference on Geometric Science of Information (GSI)! I am very grateful to [http://www.yoshimura.mech.waseda.ac.jp/Professor.html Prof. Hiroaki Yoshimura], [https://pro.univ-lille.fr/gery-de-saxce Prof. Géry de Saxcé], [https://www.uni-paderborn.de/en/person/85279 Dr. Christian Offen], [https://aero.fsb.hr/zterze_en.htm Prof. Zdravko Terze], and [https://www.imo.universite-paris-saclay.fr/~francois.dubois/ Prof. François Dubois] for their valuable comments and suggestions on my work! Also, I was very lucky to meet Stephanie Chen, Juliette Florin, [https://scholar.google.com/citations?user=2d1u24UAAAAJ Daiying Yin], and Takemi Nakamura. We had some happy time at Saint-Malo, France!
 
@@ -93,11 +95,6 @@ In this work, we studied the geometric structures of n-DOF Gaussian distribution
 
 
 
-== Visitors
-~~~
-{}{raw}
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=xhVZNesALNCVh_XEzDWwkI3vUBxDVkZLSLpACTYGZ7A"></script>
-~~~
 
 
 
