@@ -78,7 +78,7 @@ In this work, we proposed a family of computationally efficient unscented Kalman
 
 
 ~~~
-- [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*], *Automatica*, 164: 111626, 2024.\n
+- [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*], *Automatica*, 164: 111626, 2024. (Regular Paper) \n
  (Joint work with [https://cacso.nju.edu.cn/8b/85/c55864a691077/page.htm Prof. Rui Fu] and [https://www.coe.pku.edu.cn/teaching/mechanics/10519.html Prof. Jinzhi Wang]) \n\n
 In this work, we studied the geometric structures of n-DOF Gaussian distributions and proposed a geometric optimal control algorithm for minimum-energy optimal control problem of Gaussian distributions.  The proposed reduced dynamics reduces the high nonlinearity appearing in the original non-Euclidean state space of a thermal process, and it is regarded as dynamical constraints in the geometric optimal control problem. The proposed approach is applied to three different scenarios, including two benchmark examples, to demonstrate the applicability and effectiveness.
 ~~~
