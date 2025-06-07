@@ -6,12 +6,13 @@
 - *Variational Principle for Stochastic Nonholonomic Systems Part I: Continuous-Time Formulation*, submitted to GSI 2025.\n
 Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
 
-
 - *Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator*, submitted to GSI 2025.\n
 Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
 
-
 - *Physics-Informed Gaussian Process Learning on Lie Groups*, under review, 2025\n
+Tianzhi Li and Jinzhi Wang\n
+
+- *Structure-Preserving Unscented Kalman Filter for Constrained Mobile Robots*, under review, 2025\n
 Tianzhi Li and Jinzhi Wang\n
 ~~~
 
@@ -42,15 +43,15 @@ Proceedings of *Geometric Science of Information* 2023 (GSI). Lecture Notes in C
 
 - [https://doi.org/10.23919/CCC63176.2024.10662579 *A structure-preserving learning scheme on SO(3)*]\n
 Tianzhi Li and Jinzhi Wang\n
-2024 43rd *IEEE Chinese Control Conference* (CCC), Kunming, China, pp. 5149-5152, 2024.
+43rd *IEEE Chinese Control Conference* (CCC), Kunming, China, pp. 5149-5152, 2024.
 
 - [https://doi.org/10.23919/CCC58697.2023.10240513 *A physics-informed Gaussian process regression algorithm for the dynamics of the planar pendulum*]\n
 Tianzhi Li and Jinzhi Wang\n
-2023 42nd *IEEE Chinese Control Conference* (CCC), Tianjin, China, pp. 5163-5167, 2023.
+42nd *IEEE Chinese Control Conference* (CCC), Tianjin, China, pp. 5163-5167, 2023.
 
 - [https://doi.org/CCDC55256.2022.10033975 *A statistical dynamical algorithm for Gaussian multi-agent systems under Hamel's formalism*]\n
 Tianzhi Li and Jinzhi Wang\n
- 2022 34th *IEEE Chinese Control and Decision Conference* (CCDC), Hefei, China, pp. 1344-1349, 2022.
+34th *IEEE Chinese Control and Decision Conference* (CCDC), Hefei, China, pp. 1344-1349, 2022.
 ~~~
 
 
