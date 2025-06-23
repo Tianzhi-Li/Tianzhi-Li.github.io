@@ -55,7 +55,14 @@ Brief Abstract: We propose a family of computationally efficient unscented Kalma
 Brief Abstract: We study the geometric structures of n-DOF Gaussian distributions, and we propose a geometric optimal control algorithm for minimum-energy optimal control problem of Gaussian distributions.
 ~~~
 
-
+~~~
+{}{img_left}{pictures/UKF-Beam.png}{alt text}{400}{230}{}
+[https://doi.org/10.1007/978-3-031-38299-4_7 *Multisymplectic unscented Kalman filter for geometrically exact beams*]\n
+In: Nielsen, F., Barbaresco, F. (eds) *Geometric Science of Information* (GSI 2023). Lecture Notes in Computer Science, vol 14072. Springer, Cham.\n
+[https://doi.org/10.1007/978-3-031-38299-4_7 \[Paper PDF\]]\n
+*T. Li* and J. Wang\n\n
+Brief Abstract: We propose a geometric estimation algorithm for geometrically exact beams based on geometric mechanics and classical field theory. The structure-preserving property of the proposed filter is demonstrated by numerical results.
+~~~
 
 
 
