@@ -3,12 +3,6 @@
 
 ~~~
 {Preprints}
-- *Variational Principle for Stochastic Nonholonomic Systems Part I: Continuous-Time Formulation*, submitted to GSI 2025.\n
-Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
-
-- *Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator*, submitted to GSI 2025.\n
-Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
-
 - *Physics-Informed Gaussian Process Learning on Lie Groups*, under review, 2025\n
 Tianzhi Li and Jinzhi Wang\n
 
@@ -19,22 +13,23 @@ Tianzhi Li and Jinzhi Wang\n
 
 
 ~~~
-{Journal Papers}
+{Papers}
 - [https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*]\n
 Tianzhi Li and Jinzhi Wang\n
 *Automatica*, 172: 111995, 2025. (Regular Paper)
 
-
 - [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*]\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n
 *Automatica*, 164: 111626, 2024. (Regular Paper)
-~~~
 
+- *Variational Principle for Stochastic Nonholonomic Systems Part I: Continuous-Time Formulation*\n
+Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
+Accepted by *Geometric Science of Information* 2025.
 
+- *Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator*\n
+Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
+Accepted by *Geometric Science of Information* 2025.
 
-
-~~~
-{Conference Papers}
 - [https://doi.org/10.1007/978-3-031-38299-4_7 *Multisymplectic unscented Kalman filter
  for geometrically exact beams*]\n
 Tianzhi Li and Jinzhi Wang\n
