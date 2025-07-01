@@ -2,11 +2,11 @@
 =Publications
 
 
-=== Preprints
-- *Physics-Informed Gaussian Process Learning on Lie Groups*, under review, 2025\n
+== Preprints
+- *[Physics-Informed Gaussian Process Learning on Lie Groups]*, under review, 2025\n
 Tianzhi Li and Jinzhi Wang\n
 
-- *Structure-Preserving Unscented Kalman Filter for Constrained Mobile Robots*, under review, 2025\n
+- *[Structure-Preserving Unscented Kalman Filter for Constrained Mobile Robots]*, under review, 2025\n
 Tianzhi Li, Jinzhi Wang, and Zhisheng Duan\n
 
 
@@ -43,7 +43,7 @@ Brief Abstract: We propose a geometric estimation algorithm for geometrically ex
 
 ~~~
 {}{img_left}{pictures/part1.png}{alt text}{400}{187}{}
-*Variational Principle for Stochastic Nonholonomic Systems Part I: Continuous-Time Formulation*\n
+*[Variational Principle for Stochastic Nonholonomic Systems Part I: Continuous-Time Formulation]*\n
 Accepted by *Geometric Science of Information* (GSI 2025)\n
 Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n\n
 Brief Abstract: We introduce stochastic variational principles for stochastic unconstrained and stochastic nonholonomically constrained systems based on Hamel's formalism. An interesting example of the stochastic rolling disk is given to demonstrate the effectivness of the proposed approach.
@@ -51,7 +51,7 @@ Brief Abstract: We introduce stochastic variational principles for stochastic un
 
 ~~~
 {}{img_left}{pictures/part2.png}{alt text}{400}{187}{}
-*Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator*\n
+*[Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator]*\n
 Accepted by *Geometric Science of Information* (GSI 2025)\n
 Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n\n
 Brief Abstract: We propose stochastic discrete variational principles for stochastic nonholonomic systems and construct the associated stochastic nonholonomic integrator based on Hamel's formalism. The links between the proposed approach and existing geometric numrical integration methods (such as Verlet method, sysmplectic-momentum integrator, and Hamel integrator) are analyzed. 
