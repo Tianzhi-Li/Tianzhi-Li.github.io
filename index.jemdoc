@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{tianzhi.html}, nofooter
-==Tianzhi Li  李天志
+==Tian-Zhi Li  李天志
 
 ~~~
 {}{img_left}{pictures/tlee10.jpg}{alt text}{230}{250}{}
@@ -26,9 +26,8 @@ Please feel free to drop me an email for discussions about any interestnig resea
 
 == Research Interest
 My research interest lies at geometric modeling and simulation of dynamical systems, which includes the following topics:\n
-- *Geometric Mechanics* (Stochastic & Nonholonomic)\n
-- *Estimation and Filtering* (Robot Systems & Flexible Systems)\n
-- *Geometric Numerical Integration* (Variational Integrators)\n
+- *Geometric Mechanics* (Stochastic & Nonholonomic),  *Geometric Numerical Integration* (Variational Integrators)\n
+- *Geometric Estimation and Filtering* (Robot Systems & Flexible Systems)\n
 - *Geometry of Gaussian Distributions* (Controlling Uncertainties)\n
 - *Computationally Efficient Physics-Informed Learning*\n
 
@@ -44,8 +43,8 @@ My research interest lies at geometric modeling and simulation of dynamical syst
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*]\n
 *Automatica*, 172: 111995, 2025 (Regular Paper).\n
 [https://doi.org/10.1016/j.automatica.2024.111995 \[Paper PDF\]]\n
-*T. Li* and J. Wang\n\n
-Brief Abstract: We propose a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
+Tianzhi Li and Jinzhi Wang\n\n
+We propose a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
 ~~~
 
 ~~~
@@ -53,8 +52,8 @@ Brief Abstract: We propose a family of computationally efficient unscented Kalma
 [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*]\n
 *Automatica*, 164: 111626, 2024 (Regular Paper).\n
 [https://doi.org/10.1016/j.automatica.2024.111626 \[Paper PDF\]]\n
-*T. Li*, R. Fu, and J. Wang\n\n
-Brief Abstract: We study the geometric structures of n-DOF Gaussian distributions, and we propose a geometric optimal control algorithm for minimum-energy optimal control problem of Gaussian distributions.
+Tianzhi Li, Rui Fu, and Jinzhi Wang\n\n
+We study the geometric structures of n-DOF Gaussian distributions, and we propose a geometric optimal control algorithm for minimum-energy optimal control problem of Gaussian distributions.
 ~~~
 
 ~~~
@@ -62,8 +61,8 @@ Brief Abstract: We study the geometric structures of n-DOF Gaussian distribution
 [https://doi.org/10.1007/978-3-031-38299-4_7 *Multisymplectic unscented Kalman filter for geometrically exact beams*]\n
 In: Nielsen, F., Barbaresco, F. (eds) *Geometric Science of Information* (GSI 2023). Lecture Notes in Computer Science, vol 14072. Springer, Cham.\n
 [https://doi.org/10.1007/978-3-031-38299-4_7 \[Paper PDF\]]\n
-*T. Li* and J. Wang\n\n
-Brief Abstract: We propose a geometric estimation algorithm for geometrically exact beams based on geometric mechanics and classical field theory. The structure-preserving property of the proposed filter is demonstrated by numerical results.
+Tianzhi Li and Jinzhi Wang\n\n
+We propose a geometric estimation algorithm for geometrically exact beams based on geometric mechanics and classical field theory. The structure-preserving property of the proposed filter is demonstrated by numerical results.
 ~~~
 
 
@@ -71,13 +70,17 @@ Brief Abstract: We propose a geometric estimation algorithm for geometrically ex
 
 == News
 
-- *June 2025*: I am humbled and beyond grateful to recieve the *PKU Presidential Doctoral Fellowship* (2025-2026)!
+- *August 2025*: Our paper [ *Physics-Informed Gaussian Process Learning on Lie Groups*] has been accepted to Journal of Guidance, Control, and Dynamics (*JGCD*).
+
+- *July 2025*: Our two papers [ *Variational Principle for Stochastic Nonholonomic Systems Part I* & *Part II*] (joint work with Professors [https://dr.ntu.edu.sg/cris/rp/rp02301 François Gay-Balmaz], [https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/sdh/index.htm Donghua Shi], and [https://www.coe.pku.edu.cn/teaching/all_time/7249.html Jinzhi Wang]) have been accepted by the International Conference on Geometric Science of Information (*GSI 2025*).
+
+- *June 2025*: I am humbled and beyond grateful to recieve the *PKU Presidential Doctoral Scholarship* (2025-2026)!
 
 - *Dec 2024*: I am so happy and excited to be a visiting student under the supervision of [https://dr.ntu.edu.sg/cris/rp/rp02301 Prof. François Gay-Balmaz] at Nanyang Technological University (NTU) in Singapore!
 
-- *Nov 2024*: I am very honored to recieve the *PKU-CoE Presidential Doctoral Fellowship*-First Prize (2024-2025)!
+- *Nov 2024*: I am very honored to recieve the *PKU-CoE Presidential Doctoral Scholarship (First Prize)*, 2024-2025!
 
-- *Sept 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*] (Joint work with [https://www.coe.pku.edu.cn/teaching/mechanics/10519.html Prof. Jinzhi Wang]) is accepted to *Automatica*.
+- *Sept 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*] has been accepted to *Automatica*.
 
 - *July 2024*: I was thrilled to present "Stochastic Nonholonomic Variational Principle" at the Geometric Mechanics & Control Seminar (BIT) organized by [https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/sdh/index.htm Prof. Donghua Shi]. The discussion with [http://www.yoshimura.mech.waseda.ac.jp/Professor.html Prof. Hiroaki Yoshimura] and [http://www.peng.mech.keio.ac.jp/faculty/index.html Prof. Linyu Peng] was very insightful and interesting!
 
@@ -85,7 +88,7 @@ Brief Abstract: We propose a geometric estimation algorithm for geometrically ex
 
 - *April 2024*: I was thrilled to give a talk about my PhD work at Beijing Institute of Technology (BIT) invited by [https://sae.bit.edu.cn/szdw20/szml/lxcx20/zgjzcapypx_3/b187454.htm Prof. Qiang Tian] and [https://hhy.nuaa.edu.cn/2024/0529/c12018a341286/page.htm Prof. Ju Chen]. The discussion was very insightful and interesting!
 
-- *Feb 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*] (Joint work with [https://cacso.nju.edu.cn/8b/85/c55864a691077/page.htm Prof. Rui Fu] and [https://www.coe.pku.edu.cn/teaching/mechanics/10519.html Prof. Jinzhi Wang]) is accepted to *Automatica*.
+- *Feb 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*] has been accepted to *Automatica*.
 
 - *August 2023*: I was thrilled to present "Multisymplectic Unscented Kalman Filter for Geometrically Exact Beams" at the 6th International Conference on Geometric Science of Information (GSI)! I am very grateful to [http://www.yoshimura.mech.waseda.ac.jp/Professor.html Prof. Hiroaki Yoshimura] and [https://www.uni-paderborn.de/en/person/85279 Dr. Christian Offen] for their valuable comments and suggestions on my work! Also, I was very lucky to meet Stephanie Chen, Juliette Florin, [https://scholar.google.com/citations?user=2d1u24UAAAAJ Daiying Yin], and Takemi Nakamura. We had some happy time at Saint-Malo, France!
 

@@ -3,33 +3,42 @@
 
 
 == Preprints
-- *[ Physics-Informed Gaussian Process Learning on Lie Groups]*, under review, 2025\n
-Tianzhi Li and Jinzhi Wang\n
-
-- *[ Structure-Preserving Unscented Kalman Filter for Constrained Mobile Robots]*, under review, 2025\n
+- *[ Structure-Preserving Unscented Kalman Filter for Constrained Planar Mobile Robots]*, under review, 2025\n
 Tianzhi Li, Jinzhi Wang, and Zhisheng Duan\n
+
+
 
 
 
 
 == Published Papers
 ~~~
+{}{img_left}{pictures/GPL.png}{alt text}{400}{180}{}
+[ *Physics-Informed Gaussian Process Learning on Lie Groups*]\n
+*Journal of Guidance, Control, and Dynamics* (*JGCD*), accepted, 2025.\n
+Tianzhi Li and Jinzhi Wang\n\n
+We introduce a physics-informed Gaussian process learning method for mechanical systems on Lie groups and on a special class of homogeneous manifolds based on discrete mechanics theory.
+~~~
+
+
+
+~~~
 {}{img_left}{pictures/UKFV2.jpg}{alt text}{400}{180}{}
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*]\n
-*Automatica*, 172: 111995, 2025 (Regular Paper).\n
+*Automatica*, 172: 111995, 2025 (*Regular Paper*).\n
 [https://doi.org/10.1016/j.automatica.2024.111995 \[Paper PDF\]]\n
 Tianzhi Li and Jinzhi Wang\n\n
-Brief Abstract: We propose a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
+We propose a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
 ~~~
 
 
 ~~~
 {}{img_left}{pictures/thermo2.jpg}{alt text}{400}{187}{}
 [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*]\n
-*Automatica*, 164: 111626, 2024 (Regular Paper).\n
+*Automatica*, 164: 111626, 2024 (*Regular Paper*).\n
 [https://doi.org/10.1016/j.automatica.2024.111626 \[Paper PDF\]]\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n\n
-Brief Abstract: We study the geometric structures of n-DOF Gaussian distributions, and we propose a geometric optimal control algorithm for minimum-energy optimal control problem of Gaussian distributions.
+We study the geometric structures of n-DOF Gaussian distributions, and we propose a geometric optimal control algorithm for minimum-energy optimal control problem of Gaussian distributions.
 ~~~
 
 ~~~
@@ -38,7 +47,7 @@ Brief Abstract: We study the geometric structures of n-DOF Gaussian distribution
 In: Nielsen, F., Barbaresco, F. (eds) *Geometric Science of Information* (GSI 2023). Lecture Notes in Computer Science, vol 14072. Springer, Cham.\n
 [https://doi.org/10.1007/978-3-031-38299-4_7 \[Paper PDF\]]\n
 Tianzhi Li and Jinzhi Wang\n\n
-Brief Abstract: We propose a geometric estimation algorithm for geometrically exact beams based on geometric mechanics and classical field theory. The structure-preserving property of the proposed filter is demonstrated by numerical results.
+We propose a geometric estimation algorithm for geometrically exact beams based on geometric mechanics and classical field theory. The structure-preserving property of the proposed filter is demonstrated by numerical results.
 ~~~
 
 ~~~
@@ -46,7 +55,7 @@ Brief Abstract: We propose a geometric estimation algorithm for geometrically ex
 *[ Variational Principle for Stochastic Nonholonomic Systems Part I: Continuous-Time Formulation]*\n
 Accepted by *Geometric Science of Information* (GSI 2025)\n
 Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n\n
-Brief Abstract: We introduce stochastic variational principles for stochastic unconstrained and stochastic nonholonomically constrained systems based on Hamel's formalism. An interesting example of the stochastic rolling disk is given to demonstrate the effectivness of the proposed approach.
+We introduce stochastic variational principles for stochastic unconstrained and stochastic nonholonomically constrained systems based on Hamel's formalism. An interesting example of the stochastic rolling disk is given to demonstrate the effectivness of the proposed approach.
 ~~~
 
 ~~~
@@ -54,7 +63,7 @@ Brief Abstract: We introduce stochastic variational principles for stochastic un
 *[ Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator]*\n
 Accepted by *Geometric Science of Information* (GSI 2025)\n
 Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n\n
-Brief Abstract: We propose stochastic discrete variational principles for stochastic nonholonomic systems and construct the associated stochastic nonholonomic integrator based on Hamel's formalism. The links between the proposed approach and existing geometric numrical integration methods (such as Verlet method, sysmplectic-momentum integrator, and Hamel integrator) are analyzed. 
+We propose stochastic discrete variational principles for stochastic nonholonomic systems and construct the associated stochastic nonholonomic integrator based on Hamel's formalism. The links between the proposed approach and existing geometric numrical integration methods (such as Verlet method, sysmplectic-momentum integrator, and Hamel integrator) are analyzed. 
 ~~~
 
 ~~~
@@ -64,7 +73,7 @@ Brief Abstract: We propose stochastic discrete variational principles for stocha
 [https://doi.org/10.23919/CCC63176.2024.10662579 \[Paper PDF\]]\n
 Tianzhi Li and Jinzhi Wang\n\n
 
-Brief Abstract: We propose a physics-guided Gaussian learning method for SO(3) attitude dynamics prediction. Numerical results are given to demonstrate the structure-preserving properties of the proposed method, such as energy conservation, constraint preservation, and  geometry preservation.
+We propose a physics-guided Gaussian learning method for SO(3) attitude dynamics prediction. Numerical results are given to demonstrate the structure-preserving properties of the proposed method, such as energy conservation, constraint preservation, and  geometry preservation.
 ~~~
 
 ~~~
@@ -74,7 +83,7 @@ Brief Abstract: We propose a physics-guided Gaussian learning method for SO(3) a
 [https://doi.org/10.23919/CCC58697.2023.10240513 \[Paper PDF\]]\n
 Tianzhi Li and Jinzhi Wang\n\n
 
-Brief Abstract: We introduce a Gaussian process regression algorithm for the prediction of planar pendulum dynamics. Numerical results show that the proposed method preserves some key numerical quantities of the system, including the numerical energy and the physical length of the pendulum.
+We introduce a Gaussian process regression algorithm for the prediction of planar pendulum dynamics. Numerical results show that the proposed method preserves some key numerical quantities of the system, including the numerical energy and the physical length of the pendulum.
 ~~~
 
 ~~~
@@ -84,5 +93,5 @@ Brief Abstract: We introduce a Gaussian process regression algorithm for the pre
 [https://doi.org/CCDC55256.2022.10033975 \[Paper PDF\]]\n
 Tianzhi Li and Jinzhi Wang\n\n
 
-Brief Abstract: We study the geometric structure of n-DOF Gaussian distributions (normal distributions) using Lie group and homogeneous manifold theories. In particular, the metric matrix and the Lagrangian of the system is determined and the discrete dynamics is derived using a discrete variational principle. The resulting geometric integrator for n-DOF Gaussian distributions exhibits properties of energy conservation compared with Runge-Kutta method.
+We study the geometric structure of n-DOF Gaussian distributions (normal distributions) using Lie group and homogeneous manifold theories. In particular, the metric matrix and the Lagrangian of the system is determined and the discrete dynamics is derived using a discrete variational principle. The resulting geometric integrator for n-DOF Gaussian distributions exhibits properties of energy conservation compared with Runge-Kutta method.
 ~~~
