@@ -3,8 +3,7 @@
 
 
 == Preprints
-- *[ Structure-Preserving Unscented Kalman Filter for Constrained Planar Mobile Robots]*, under review, 2025\n
-Tianzhi Li, Jinzhi Wang, and Zhisheng Duan\n
+
 
 
 
@@ -25,7 +24,7 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 ~~~
 {}{img_left}{pictures/UKFV2.jpg}{alt text}{400}{180}{}
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*]\n
-*Automatica*, 172: 111995, 2025 (*Regular Paper*).\n
+*Automatica*, 172: 111995, 2025 (*Full Paper*).\n
 [https://doi.org/10.1016/j.automatica.2024.111995 \[Paper PDF\]]\n
 Tianzhi Li and Jinzhi Wang\n\n
 We propose a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
@@ -33,9 +32,19 @@ We propose a family of computationally efficient unscented Kalman filters (UKF-V
 
 
 ~~~
+{}{img_left}{pictures/SP-UKF.png}{alt text}{400}{180}{}
+[ *Structure-Preserving Unscented Kalman Filter for Planar Mobile Robots*]\n
+*IEEE Control Systems Letters*, accepted, 2025.\n
+Tianzhi Li, Jinzhi Wang, and Zhisheng Duan\n\n
+We introduce a structure-preserving filtering method (called SP-UKF) for constrained planar mobile robots. The proposed SP-UKF is energy-conserving, constraint-preserving, and manifold-structure-preserving.
+~~~
+
+
+
+~~~
 {}{img_left}{pictures/thermo2.jpg}{alt text}{400}{187}{}
 [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*]\n
-*Automatica*, 164: 111626, 2024 (*Regular Paper*).\n
+*Automatica*, 164: 111626, 2024 (*Full Paper*).\n
 [https://doi.org/10.1016/j.automatica.2024.111626 \[Paper PDF\]]\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n\n
 We study the geometric structures of n-DOF Gaussian distributions, and we propose a geometric optimal control algorithm for minimum-energy optimal control problem of Gaussian distributions.
