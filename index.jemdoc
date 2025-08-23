@@ -42,8 +42,9 @@ My research interest lies at geometric modeling and simulation of dynamical syst
 {}{img_left}{pictures/UKFV2.jpg}{alt text}{400}{180}{}
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*]\n
 *Automatica*, 172: 111995, 2025 (Full Paper).\n
-[https://doi.org/10.1016/j.automatica.2024.111995 \[Paper PDF\]]\n
-Tianzhi Li and Jinzhi Wang\n\n
+Tianzhi Li and Jinzhi Wang\n
+[https://doi.org/10.1016/j.automatica.2024.111995 \[Paper PDF\]]\n\n
+
 We propose a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
 ~~~
 
@@ -51,8 +52,9 @@ We propose a family of computationally efficient unscented Kalman filters (UKF-V
 {}{img_left}{pictures/thermo2.jpg}{alt text}{400}{187}{}
 [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*]\n
 *Automatica*, 164: 111626, 2024 (Full Paper).\n
-[https://doi.org/10.1016/j.automatica.2024.111626 \[Paper PDF\]]\n
-Tianzhi Li, Rui Fu, and Jinzhi Wang\n\n
+Tianzhi Li, Rui Fu, and Jinzhi Wang\n
+[https://doi.org/10.1016/j.automatica.2024.111626 \[Paper PDF\]]\n\n
+
 We study the geometric structures of n-DOF Gaussian distributions, and we propose a geometric optimal control algorithm for minimum-energy optimal control problem of Gaussian distributions.
 ~~~
 
@@ -70,7 +72,7 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 
 
 == News
-- *Aug 2025*: Our paper [ *Structure-Preserving Unscented Kalman Filter for Planar Mobile Robots*] has been accepted by IEEE Control Systems Letters (*IEEE L-CSS*).
+- *Aug 2025*: Our paper [https://doi.org/10.1109/LCSYS.2025.3601664 *Structure-Preserving Unscented Kalman Filter for Planar Mobile Robots*] has been accepted by IEEE Control Systems Letters (*IEEE L-CSS*).
 
 - *Aug 2025*: Our paper [ *Physics-Informed Gaussian Process Learning on Lie Groups*] has been accepted by Journal of Guidance, Control, and Dynamics (*JGCD*).
 

@@ -25,17 +25,20 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 {}{img_left}{pictures/UKFV2.jpg}{alt text}{400}{180}{}
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*]\n
 *Automatica*, 172: 111995, 2025 (*Full Paper*).\n
-[https://doi.org/10.1016/j.automatica.2024.111995 \[Paper PDF\]]\n
-Tianzhi Li and Jinzhi Wang\n\n
+Tianzhi Li and Jinzhi Wang\n
+[https://doi.org/10.1016/j.automatica.2024.111995 \[Paper PDF\]]\n\n
+
 We propose a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
 ~~~
 
 
 ~~~
 {}{img_left}{pictures/SP-UKF.png}{alt text}{400}{180}{}
-[ *Structure-Preserving Unscented Kalman Filter for Planar Mobile Robots*]\n
+[https://doi.org/10.1109/LCSYS.2025.3601664 *Structure-Preserving Unscented Kalman Filter for Planar Mobile Robots*]\n
 *IEEE Control Systems Letters*, accepted, 2025.\n
-Tianzhi Li, Jinzhi Wang, and Zhisheng Duan\n\n
+Tianzhi Li, Jinzhi Wang, and Zhisheng Duan\n
+[https://doi.org/10.1109/LCSYS.2025.3601664 \[Paper PDF\]]\n\n
+
 We introduce a structure-preserving filtering method (called SP-UKF) for constrained planar mobile robots. The proposed SP-UKF is energy-conserving, constraint-preserving, and manifold-structure-preserving.
 ~~~
 
