@@ -24,7 +24,7 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 
 ~~~
 {}{img_left}{pictures/UKFV2.jpg}{alt text}{400}{180}{}
-[https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*]\n
+[https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*]\n
 *Automatica*, 172: 111995, 2025 (*Full Paper*).\n
 Tianzhi Li and Jinzhi Wang\n
 [https://doi.org/10.1016/j.automatica.2024.111995 \[Paper PDF\]]\n\n
@@ -47,7 +47,7 @@ We introduce a structure-preserving filtering method (called SP-UKF) for constra
 
 ~~~
 {}{img_left}{pictures/thermo2.jpg}{alt text}{400}{187}{}
-[https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*]\n
+[https://doi.org/10.1016/j.automatica.2024.111626 *Reduced Dynamics and Geometric Optimal Control of Nonequilibrium Thermodynamics: Gaussian Case*]\n
 *Automatica*, 164: 111626, 2024 (*Full Paper*).\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n
 [https://doi.org/10.1016/j.automatica.2024.111626 \[Paper PDF\]]\n\n
@@ -57,7 +57,7 @@ We study the geometric structures of n-DOF Gaussian distributions, and we propos
 
 ~~~
 {}{img_left}{pictures/UKF-Beam.png}{alt text}{400}{187}{}
-[https://doi.org/10.1007/978-3-031-38299-4_7 *Multisymplectic unscented Kalman filter for geometrically exact beams*]\n
+[https://doi.org/10.1007/978-3-031-38299-4_7 *Multisymplectic Unscented Kalman Filter for Geometrically Exact Beams*]\n
 In: Nielsen, F., Barbaresco, F. (eds) *Geometric Science of Information* (GSI 2023). Lecture Notes in Computer Science, vol 14072. Springer, Cham.\n
 Tianzhi Li and Jinzhi Wang\n
 [https://doi.org/10.1007/978-3-031-38299-4_7 \[Paper PDF\]]\n\n
@@ -85,7 +85,7 @@ We propose stochastic discrete variational principles for stochastic nonholonomi
 
 ~~~
 {}{img_left}{pictures/CCC2024.png}{alt text}{400}{187}{}
-[https://doi.org/10.23919/CCC63176.2024.10662579 *A structure-preserving learning scheme on SO(3)*]\n
+[https://doi.org/10.23919/CCC63176.2024.10662579 *AStructure-Preserving Learning Scheme on SO(3)*]\n
 43rd *IEEE Chinese Control Conference* (CCC), Kunming, China, pp. 5149-5152, 2024.\n
 Tianzhi Li and Jinzhi Wang\n
 [https://doi.org/10.23919/CCC63176.2024.10662579 \[Paper PDF\]]\n\n
@@ -95,7 +95,7 @@ We propose a physics-guided Gaussian learning method for SO(3) attitude dynamics
 
 ~~~
 {}{img_left}{pictures/CCC2023.png}{alt text}{400}{187}{}
-[https://doi.org/10.23919/CCC58697.2023.10240513 *A physics-informed Gaussian process regression algorithm for the dynamics of the planar pendulum*]\n
+[https://doi.org/10.23919/CCC58697.2023.10240513 *A Physics-Informed Gaussian Process Regression Algorithm for The Dynamics of The Planar Pendulum*]\n
 42nd *IEEE Chinese Control Conference* (CCC), Tianjin, China, pp. 5163-5167, 2023.\n
 Tianzhi Li and Jinzhi Wang\n
 [https://doi.org/10.23919/CCC58697.2023.10240513 \[Paper PDF\]]\n\n
@@ -105,7 +105,7 @@ We introduce a Gaussian process regression algorithm for the prediction of plana
 
 ~~~
 {}{img_left}{pictures/CCDC2022.png}{alt text}{400}{187}{}
-[https://doi.org/CCDC55256.2022.10033975 *A statistical dynamical algorithm for Gaussian multi-agent systems under Hamel's formalism*]\n
+[https://doi.org/CCDC55256.2022.10033975 *A Statistical Dynamical Algorithm for Gaussian Multi-Agent Systems Under Hamel's Formalism*]\n
 34th *IEEE Chinese Control and Decision Conference* (CCDC), Hefei, China, pp. 1344-1349, 2022.\n
 Tianzhi Li and Jinzhi Wang\n
 [https://doi.org/CCDC55256.2022.10033975 \[Paper PDF\]]\n\n

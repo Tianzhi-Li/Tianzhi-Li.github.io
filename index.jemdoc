@@ -40,7 +40,7 @@ My research interest lies at geometric modeling and simulation of dynamical syst
 
 ~~~
 {}{img_left}{pictures/UKFV2.jpg}{alt text}{400}{180}{}
-[https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*]\n
+[https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*]\n
 *Automatica*, 172: 111995, 2025 (Full Paper).\n
 Tianzhi Li and Jinzhi Wang\n
 [https://doi.org/10.1016/j.automatica.2024.111995 \[Paper PDF\]]\n\n
@@ -50,7 +50,7 @@ We propose a family of computationally efficient unscented Kalman filters (UKF-V
 
 ~~~
 {}{img_left}{pictures/thermo2.jpg}{alt text}{400}{187}{}
-[https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*]\n
+[https://doi.org/10.1016/j.automatica.2024.111626 *Reduced Dynamics and Geometric Optimal Control of Nonequilibrium Thermodynamics: Gaussian Case*]\n
 *Automatica*, 164: 111626, 2024 (Full Paper).\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n
 [https://doi.org/10.1016/j.automatica.2024.111626 \[Paper PDF\]]\n\n
@@ -84,7 +84,7 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 
 - *Nov 2024*: I am very honored to recieve the *PKU-CoE Presidential Doctoral Scholarship (First Prize)*, 2024-2025!
 
-- *Sept 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111995 *Variational unscented Kalman filter on matrix Lie groups*] has been accepted by *Automatica*.
+- *Sept 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*] has been accepted by *Automatica*.
 
 - *July 2024*: I was thrilled to present "Stochastic Nonholonomic Variational Principle" at the Geometric Mechanics & Control Seminar (BIT) organized by [https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/sdh/index.htm Prof. Donghua Shi]. The discussion with [http://www.yoshimura.mech.waseda.ac.jp/Professor.html Prof. Hiroaki Yoshimura] and [http://www.peng.mech.keio.ac.jp/faculty/index.html Prof. Linyu Peng] was very insightful and interesting!
 
@@ -92,7 +92,7 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 
 - *Apr 2024*: I was thrilled to give a talk about my PhD work at Beijing Institute of Technology (BIT) invited by [https://sae.bit.edu.cn/szdw20/szml/lxcx20/zgjzcapypx_3/b187454.htm Prof. Qiang Tian] and [https://hhy.nuaa.edu.cn/2024/0529/c12018a341286/page.htm Prof. Ju Chen]. The discussion was very insightful and interesting!
 
-- *Feb 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced dynamics and geometric optimal control of nonequilibrium thermodynamics: Gaussian case*] has been accepted by *Automatica*.
+- *Feb 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced Dynamics and Geometric Optimal Control of Nonequilibrium Thermodynamics: Gaussian Case*] has been accepted by *Automatica*.
 
 - *Aug 2023*: I was thrilled to present "Multisymplectic Unscented Kalman Filter for Geometrically Exact Beams" at the 6th International Conference on Geometric Science of Information (GSI)! I am very grateful to [http://www.yoshimura.mech.waseda.ac.jp/Professor.html Prof. Hiroaki Yoshimura] and [https://www.uni-paderborn.de/en/person/85279 Dr. Christian Offen] for their valuable comments and suggestions on my work! Also, I was very lucky to meet Stephanie Chen, Juliette Florin, [https://scholar.google.com/citations?user=2d1u24UAAAAJ Daiying Yin], and Takemi Nakamura. We had some happy time at Saint-Malo, France!
 
