@@ -36,7 +36,7 @@ We propose a family of computationally efficient unscented Kalman filters (UKF-V
 ~~~
 {}{img_left}{pictures/SP-UKF.png}{alt text}{400}{180}{}
 [https://doi.org/10.1109/LCSYS.2025.3601664 *Structure-Preserving Unscented Kalman Filter for Planar Mobile Robots*]\n
-*IEEE Control Systems Letters*, accepted, 2025.\n
+*IEEE Control Systems Letters*, vol. 9, pp. 2157-2162, 2025.\n
 Tianzhi Li, Jinzhi Wang, and Zhisheng Duan\n
 [https://doi.org/10.1109/LCSYS.2025.3601664 \[Paper PDF\]]\n\n
 
