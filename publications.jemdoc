@@ -2,7 +2,7 @@
 =Publications
 
 
-== Preprints
+#== Preprints
 
 
 
@@ -10,12 +10,13 @@
 
 
 
-== Published Papers
+#== Published Papers
 ~~~
 {}{img_left}{pictures/GPL.png}{alt text}{400}{180}{}
-[ *Physics-Informed Gaussian Process Learning on Lie Groups*]\n
-*Journal of Guidance, Control, and Dynamics* (*JGCD*), accepted, 2025.\n
-Tianzhi Li and Jinzhi Wang\n\n
+[https://doi.org/10.2514/1.G008754 *Physics-Informed Gaussian Process Learning on Lie Groups*]\n
+*Journal of Guidance, Control, and Dynamics*, in press, doi: 10.2514/1.G008754, 2025.\n
+Tianzhi Li and Jinzhi Wang\n
+[https://doi.org/10.2514/1.G008754 \[Paper Link\]]\n\n
 
 We introduce a physics-informed Gaussian process learning method for mechanical systems on Lie groups and on a special class of homogeneous manifolds based on discrete mechanics theory.
 ~~~
@@ -27,7 +28,7 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*]\n
 *Automatica*, 172: 111995, 2025 (*Full Paper*).\n
 Tianzhi Li and Jinzhi Wang\n
-[https://doi.org/10.1016/j.automatica.2024.111995 \[Paper PDF\]]\n\n
+[https://doi.org/10.1016/j.automatica.2024.111995 \[Paper Link\]]\n\n
 
 We propose a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
 ~~~
@@ -38,7 +39,7 @@ We propose a family of computationally efficient unscented Kalman filters (UKF-V
 [https://doi.org/10.1109/LCSYS.2025.3601664 *Structure-Preserving Unscented Kalman Filter for Planar Mobile Robots*]\n
 *IEEE Control Systems Letters*, vol. 9, pp. 2157-2162, 2025.\n
 Tianzhi Li, Jinzhi Wang, and Zhisheng Duan\n
-[https://doi.org/10.1109/LCSYS.2025.3601664 \[Paper PDF\]]\n\n
+[https://doi.org/10.1109/LCSYS.2025.3601664 \[Paper Link\]]\n\n
 
 We introduce a structure-preserving filtering method (called SP-UKF) for constrained planar mobile robots. The proposed SP-UKF is energy-conserving, constraint-preserving, and manifold-structure-preserving.
 ~~~
@@ -50,7 +51,7 @@ We introduce a structure-preserving filtering method (called SP-UKF) for constra
 [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced Dynamics and Geometric Optimal Control of Nonequilibrium Thermodynamics: Gaussian Case*]\n
 *Automatica*, 164: 111626, 2024 (*Full Paper*).\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n
-[https://doi.org/10.1016/j.automatica.2024.111626 \[Paper PDF\]]\n\n
+[https://doi.org/10.1016/j.automatica.2024.111626 \[Paper Link\]]\n\n
 
 We study the geometric structures of n-DOF Gaussian distributions, and we propose a geometric optimal control algorithm for minimum-energy optimal control problem of Gaussian distributions.
 ~~~
@@ -60,7 +61,7 @@ We study the geometric structures of n-DOF Gaussian distributions, and we propos
 [https://doi.org/10.1007/978-3-031-38299-4_7 *Multisymplectic Unscented Kalman Filter for Geometrically Exact Beams*]\n
 In: Nielsen, F., Barbaresco, F. (eds) *Geometric Science of Information* (GSI 2023). Lecture Notes in Computer Science, vol 14072. Springer, Cham.\n
 Tianzhi Li and Jinzhi Wang\n
-[https://doi.org/10.1007/978-3-031-38299-4_7 \[Paper PDF\]]\n\n
+[https://doi.org/10.1007/978-3-031-38299-4_7 \[Paper Link\]]\n\n
 
 We propose a geometric estimation algorithm for geometrically exact beams based on geometric mechanics and classical field theory. The structure-preserving property of the proposed filter is demonstrated by numerical results.
 ~~~
@@ -88,7 +89,7 @@ We propose stochastic discrete variational principles for stochastic nonholonomi
 [https://doi.org/10.23919/CCC63176.2024.10662579 *AStructure-Preserving Learning Scheme on SO(3)*]\n
 43rd *IEEE Chinese Control Conference* (CCC), Kunming, China, pp. 5149-5152, 2024.\n
 Tianzhi Li and Jinzhi Wang\n
-[https://doi.org/10.23919/CCC63176.2024.10662579 \[Paper PDF\]]\n\n
+[https://doi.org/10.23919/CCC63176.2024.10662579 \[Paper Link\]]\n\n
 
 We propose a physics-guided Gaussian learning method for SO(3) attitude dynamics prediction. Numerical results are given to demonstrate the structure-preserving properties of the proposed method, such as energy conservation, constraint preservation, and  geometry preservation.
 ~~~
@@ -98,7 +99,7 @@ We propose a physics-guided Gaussian learning method for SO(3) attitude dynamics
 [https://doi.org/10.23919/CCC58697.2023.10240513 *A Physics-Informed Gaussian Process Regression Algorithm for The Dynamics of The Planar Pendulum*]\n
 42nd *IEEE Chinese Control Conference* (CCC), Tianjin, China, pp. 5163-5167, 2023.\n
 Tianzhi Li and Jinzhi Wang\n
-[https://doi.org/10.23919/CCC58697.2023.10240513 \[Paper PDF\]]\n\n
+[https://doi.org/10.23919/CCC58697.2023.10240513 \[Paper Link\]]\n\n
 
 We introduce a Gaussian process regression algorithm for the prediction of planar pendulum dynamics. Numerical results show that the proposed method preserves some key numerical quantities of the system, including the numerical energy and the physical length of the pendulum.
 ~~~
@@ -108,7 +109,7 @@ We introduce a Gaussian process regression algorithm for the prediction of plana
 [https://doi.org/CCDC55256.2022.10033975 *A Statistical Dynamical Algorithm for Gaussian Multi-Agent Systems Under Hamel's Formalism*]\n
 34th *IEEE Chinese Control and Decision Conference* (CCDC), Hefei, China, pp. 1344-1349, 2022.\n
 Tianzhi Li and Jinzhi Wang\n
-[https://doi.org/CCDC55256.2022.10033975 \[Paper PDF\]]\n\n
+[https://doi.org/CCDC55256.2022.10033975 \[Paper Link\]]\n\n
 
 We study the geometric structure of n-DOF Gaussian distributions (normal distributions) using Lie group and homogeneous manifold theories. In particular, the metric matrix and the Lagrangian of the system is determined and the discrete dynamics is derived using a discrete variational principle. The resulting geometric integrator for n-DOF Gaussian distributions exhibits properties of energy conservation compared with Runge-Kutta method.
 ~~~
