@@ -2,13 +2,13 @@
 ==Tian-Zhi Li  李天志
 
 ~~~
-{}{img_left}{pictures/tlee10.jpg}{alt text}{230}{250}{}
+{}{img_left}{pictures/tlee10.jpg}{photo}{210}{228.26}{}
 Ph.D. Student \n
 [https://www.coe.pku.edu.cn/ Department of Mechanics and Engineering Science \n Peking University (PKU)] \n
 [https://www.ntu.edu.sg/spms/about-us/mathematics/ & Division of Mathematical Sciences \n Nanyang Technological University (NTU)] \n
 \n
-Email (NTU): [n2409573c@e.ntu.edu.sg n2409573c@e.ntu.edu.sg] \n
 Email (PKU): [tlee@stu.pku.edu.cn tlee@stu.pku.edu.cn] \n
+Email (NTU): [n2409573c@e.ntu.edu.sg n2409573c@e.ntu.edu.sg] \n
 Website: [https://tianzhi-li.github.io]\n
 YouTube: [https://www.youtube.com/%40tianzhi_li] \n
 [https://scholar.google.com/citations?hl=zh-CN&user=6d7QY0QAAAAJ *Google Scholar*] and  [https://www.researchgate.net/profile/Tianzhi-Li-3 *ResearchGate*] 
@@ -40,7 +40,7 @@ My research interest lies at geometric modeling and simulation of dynamical syst
 ~~~
 {}{img_left}{pictures/UKFV2.jpg}{alt text}{400}{180}{}
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*]\n
-*Automatica*, 172: 111995, 2025 (Full Paper).\n
+*Automatica*, 172: 111995, 2025 (Regular Paper).\n
 Tianzhi Li and Jinzhi Wang\n
 [https://doi.org/10.1016/j.automatica.2024.111995 \[Paper Link\]]\n\n
 
@@ -50,7 +50,7 @@ We propose a family of computationally efficient unscented Kalman filters (UKF-V
 ~~~
 {}{img_left}{pictures/thermo2.jpg}{alt text}{400}{187}{}
 [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced Dynamics and Geometric Optimal Control of Nonequilibrium Thermodynamics: Gaussian Case*]\n
-*Automatica*, 164: 111626, 2024 (Full Paper).\n
+*Automatica*, 164: 111626, 2024 (Regular Paper).\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n
 [https://doi.org/10.1016/j.automatica.2024.111626 \[Paper Link\]]\n\n
 
@@ -60,7 +60,7 @@ We study the geometric structures of n-DOF Gaussian distributions, and we propos
 ~~~
 {}{img_left}{pictures/GPL.png}{alt text}{400}{180}{}
 [https://doi.org/10.2514/1.G008754 *Physics-Informed Gaussian Process Learning on Lie Groups*]\n
-*Journal of Guidance, Control, and Dynamics*, in press, doi: 10.2514/1.G008754, 2025.\n
+*Journal of Guidance, Control, and Dynamics*, in press, [https://doi.org/10.2514/1.G008754 DOI: 10.2514/1.G008754], 2025.\n
 Tianzhi Li and Jinzhi Wang\n
 [https://doi.org/10.2514/1.G008754 \[Paper Link\]]\n\n
 
@@ -73,11 +73,11 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 
 
 == News
-- *Sep 2025*: I am so happy and excited to recieve the *National Scholarship* (only 5 awardees at my school) from Chinese Ministry of Education!
+- *Sep 2025*: I am so happy and excited to recieve the *National Scholarship* (top 1%) from Chinese Ministry of Education!
 
-- *Aug 2025*: Our paper [https://doi.org/10.1109/LCSYS.2025.3601664 *Structure-Preserving Unscented Kalman Filter for Planar Mobile Robots*] has been accepted by IEEE Control Systems Letters (*IEEE L-CSS*).
+- *Aug 2025*: Our paper [https://doi.org/10.1109/LCSYS.2025.3601664 *Structure-Preserving Unscented Kalman Filter for Planar Mobile Robots*] has been accepted to IEEE Control Systems Letters (*IEEE L-CSS*).
 
-- *Aug 2025*: Our paper [https://doi.org/10.2514/1.G008754 *Physics-Informed Gaussian Process Learning on Lie Groups*] has been accepted by Journal of Guidance, Control, and Dynamics (*JGCD*).
+- *Aug 2025*: Our paper [https://doi.org/10.2514/1.G008754 *Physics-Informed Gaussian Process Learning on Lie Groups*] has been accepted to Journal of Guidance, Control, and Dynamics (*JGCD*).
 
 - *Jul 2025*: Our two papers [ *Variational Principle for Stochastic Nonholonomic Systems Part I* & *Part II*] (joint work with Professors [https://dr.ntu.edu.sg/cris/rp/rp02301 François Gay-Balmaz], [https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/sdh/index.htm Donghua Shi], and [https://www.coe.pku.edu.cn/teaching/all_time/7249.html Jinzhi Wang]) have been accepted by the International Conference on Geometric Science of Information (*GSI 2025*).
 
@@ -87,7 +87,7 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 
 - *Nov 2024*: I am very honored to recieve the *PKU-CoE Presidential Doctoral Scholarship (First Prize)*, 2024-2025!
 
-- *Sep 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*] has been accepted by *Automatica*.
+- *Sep 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*] has been accepted to *Automatica*.
 
 - *Jul 2024*: I was thrilled to present "Stochastic Nonholonomic Variational Principle" at the Geometric Mechanics & Control Seminar (BIT) organized by [https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/sdh/index.htm Prof. Donghua Shi]. The discussion with [http://www.yoshimura.mech.waseda.ac.jp/Professor.html Prof. Hiroaki Yoshimura] and [http://www.peng.mech.keio.ac.jp/faculty/index.html Prof. Linyu Peng] was very insightful and interesting!
 
@@ -99,7 +99,7 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 
 - *Aug 2023*: I was thrilled to present "Multisymplectic Unscented Kalman Filter for Geometrically Exact Beams" at the 6th International Conference on Geometric Science of Information (GSI)! I am very grateful to [http://www.yoshimura.mech.waseda.ac.jp/Professor.html Prof. Hiroaki Yoshimura] and [https://www.uni-paderborn.de/en/person/85279 Dr. Christian Offen] for their valuable comments and suggestions on my work! Also, I was very lucky to meet Stephanie Chen, Juliette Florin, [https://scholar.google.com/citations?user=2d1u24UAAAAJ Daiying Yin], and Takemi Nakamura. We had some happy time at Saint-Malo, France!
 
-- *Jul 2023*: I was honored to present ''Variational Unscented Kalman Filter on Matrix Lie Groups'' at the Geometric Mechanics & Control Seminar (BIT) organized by [https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/sdh/index.htm Prof. Donghua Shi] and [https://dvzenkov.math.ncsu.edu/ Prof. Dmitry Zenkov].
+- *Jul 2023*: I was honored to present ''Variational Unscented Kalman Filter on Lie Groups'' at the Geometric Mechanics & Control Seminar (BIT) organized by [https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/sdh/index.htm Prof. Donghua Shi] and [https://dvzenkov.math.ncsu.edu/ Prof. Dmitry Zenkov].
 
 
 

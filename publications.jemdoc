@@ -26,7 +26,7 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 ~~~
 {}{img_left}{pictures/UKFV2.jpg}{alt text}{400}{180}{}
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*]\n
-*Automatica*, 172: 111995, 2025 (*Full Paper*).\n
+*Automatica*, 172: 111995, 2025 (*Regular Paper*).\n
 Tianzhi Li and Jinzhi Wang\n
 [https://doi.org/10.1016/j.automatica.2024.111995 \[Paper Link\]]\n\n
 
@@ -49,7 +49,7 @@ We introduce a structure-preserving filtering method (called SP-UKF) for constra
 ~~~
 {}{img_left}{pictures/thermo2.jpg}{alt text}{400}{187}{}
 [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced Dynamics and Geometric Optimal Control of Nonequilibrium Thermodynamics: Gaussian Case*]\n
-*Automatica*, 164: 111626, 2024 (*Full Paper*).\n
+*Automatica*, 164: 111626, 2024 (*Regular Paper*).\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n
 [https://doi.org/10.1016/j.automatica.2024.111626 \[Paper Link\]]\n\n
 
