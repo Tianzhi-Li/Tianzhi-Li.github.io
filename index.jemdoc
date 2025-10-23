@@ -17,7 +17,7 @@ YouTube: [https://www.youtube.com/%40tianzhi_li] \n
 
 
 == About me
-Hi! I am a final-year PhD student at School of Advanced Manufacturing and Robotics, Peking University (Supervisor: [https://www.coe.pku.edu.cn/teaching/mechanics/10519.html Prof. Jinzhi Wang]). Also, I am currently a visiting PhD student (Supervisor: [https://dr.ntu.edu.sg/cris/rp/rp02301 Prof. François Gay-Balmaz]) at Nanyang Technological University (NTU) in Singapore.  Prior to that, I received my B.Sc. in Mathematics from Beijing Institute of Technology (BIT) in 2021 (Supervisor: [https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/sdh/index.htm Prof. Donghua Shi]).\n
+Hi! I am a final-year PhD student at School of Advanced Manufacturing and Robotics, Peking University (Advisor: [https://www.coe.pku.edu.cn/teaching/mechanics/10519.html Prof. Jinzhi Wang]). Also, I am currently a visiting PhD student (Advisor: [https://dr.ntu.edu.sg/cris/rp/rp02301 Prof. François Gay-Balmaz]) at Nanyang Technological University (NTU) in Singapore.  Prior to that, I received my B.Sc. in Mathematics from Beijing Institute of Technology (BIT) in 2021 (Advisor: [https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/sdh/index.htm Prof. Donghua Shi]).\n
 
 
 
@@ -27,7 +27,6 @@ My research interest lies at geometric modeling and simulation of dynamical syst
 - *Geometric Mechanics & Control* (especially Stochastic & Nonholonomic)\n
 - *Geometric Numerical Integration* (Variational Integrators)\n
 - *Geometric Estimation and Filtering* (for Robot Systems & Flexible Systems)\n
-- *Geometry of Gaussian Distributions* (Controlling Uncertainties)\n
 - *Physics-Informed Learning on Manifolds*\n
 
 
@@ -38,11 +37,34 @@ My research interest lies at geometric modeling and simulation of dynamical syst
 == Selected Research
 
 ~~~
+{}{img_left}{pictures/part2.png}{alt text}{400}{187}{}
+*[https://doi.org/10.1007/978-3-032-03921-7_23 Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator]*\n
+Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
+
+*International Conference on Geometric Science of Information* (GSI 2025), Saint-Malo, France. Lecture Notes in Computer Science, vol 16034. Springer, Cham, 2026. \n
+[https://doi.org/10.1007/978-3-032-03921-7_23 \[Paper Link\]]\n
+
+We propose stochastic discrete variational principles for stochastic nonholonomic systems and construct the associated stochastic nonholonomic integrator.
+~~~
+
+~~~
+{}{img_left}{pictures/part1.png}{alt text}{400}{187}{}
+*[https://doi.org/10.1007/978-3-032-03921-7_21 Variational Principle for Stochastic Nonholonomic Systems Part I: Continuous-Time Formulation]*\n
+Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
+
+*International Conference on Geometric Science of Information* (GSI 2025), Saint-Malo, France. Lecture Notes in Computer Science, vol 16034. Springer, Cham, 2026. \n
+[https://doi.org/10.1007/978-3-032-03921-7_21 \[Paper Link\]]\n
+
+We derive stochastic variational principles for stochastic unconstrained and stochastic nonholonomically constrained systems. An interesting example of the stochastic rolling disk is given to demonstrate the effectivness of the proposed approach.
+~~~
+
+~~~
 {}{img_left}{pictures/UKFV2.jpg}{alt text}{400}{180}{}
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*]\n
-*Automatica*, 172: 111995, 2025 (Regular Paper).\n
 Tianzhi Li and Jinzhi Wang\n
-[https://doi.org/10.1016/j.automatica.2024.111995 \[Paper Link\]]\n\n
+
+*Automatica*, 172: 111995, 2025 (Regular Paper).\n
+[https://doi.org/10.1016/j.automatica.2024.111995 \[Paper Link\]]\n
 
 We propose a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
 ~~~
@@ -50,9 +72,10 @@ We propose a family of computationally efficient unscented Kalman filters (UKF-V
 ~~~
 {}{img_left}{pictures/thermo2.jpg}{alt text}{400}{187}{}
 [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced Dynamics and Geometric Optimal Control of Nonequilibrium Thermodynamics: Gaussian Case*]\n
-*Automatica*, 164: 111626, 2024 (Regular Paper).\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n
-[https://doi.org/10.1016/j.automatica.2024.111626 \[Paper Link\]]\n\n
+
+*Automatica*, 164: 111626, 2024 (Regular Paper).\n
+[https://doi.org/10.1016/j.automatica.2024.111626 \[Paper Link\]]\n
 
 We study the geometric structures of n-DOF Gaussian distributions, and we propose a geometric optimal control algorithm for minimum-energy optimal control problem of Gaussian distributions.
 ~~~
@@ -60,9 +83,10 @@ We study the geometric structures of n-DOF Gaussian distributions, and we propos
 ~~~
 {}{img_left}{pictures/GPL.png}{alt text}{400}{180}{}
 [https://doi.org/10.2514/1.G008754 *Physics-Informed Gaussian Process Learning on Lie Groups*]\n
-*Journal of Guidance, Control, and Dynamics*, in press, [https://doi.org/10.2514/1.G008754 DOI: 10.2514/1.G008754], 2025.\n
 Tianzhi Li and Jinzhi Wang\n
-[https://doi.org/10.2514/1.G008754 \[Paper Link\]]\n\n
+
+*Journal of Guidance, Control, and Dynamics*, in press, [https://doi.org/10.2514/1.G008754 DOI: 10.2514/1.G008754], 2025.\n
+[https://doi.org/10.2514/1.G008754 \[Paper Link\]]\n
 
 We introduce a physics-informed Gaussian process learning method for mechanical systems on Lie groups and on a special class of homogeneous manifolds based on discrete mechanics theory.
 ~~~
