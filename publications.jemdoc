@@ -65,7 +65,7 @@ We study the geometric structures of n-DOF Gaussian distributions, and we propos
 *[https://doi.org/10.1007/978-3-032-03921-7_23 Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator]*\n
 Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
 
-In: Nielsen, F., Barbaresco, F. (eds) *Geometric Science of Information* (GSI 2025), Saint-Malo, France. Lecture Notes in Computer Science, vol 16034. Springer, Cham, 2026. \n
+In: Nielsen, F., Barbaresco, F. (eds) *Geometric Science of Information* (GSI 2025), Saint-Malo, France. Lecture Notes in Computer Science, vol 16034, pp. 225-233. Springer, Cham, 2026. \n
 [https://doi.org/10.1007/978-3-032-03921-7_23 \[Paper Link\]]\n
 
 We propose stochastic discrete variational principles for stochastic nonholonomic systems and construct the associated stochastic nonholonomic integrator based on Hamel's formalism. The links between the proposed approach and existing geometric numrical integration methods (such as Verlet method, sysmplectic-momentum integrator, and Hamel integrator) are analyzed. 
@@ -76,7 +76,7 @@ We propose stochastic discrete variational principles for stochastic nonholonomi
 *[https://doi.org/10.1007/978-3-032-03921-7_21 Variational Principle for Stochastic Nonholonomic Systems Part I: Continuous-Time Formulation]*\n
 Tianzhi Li, Francois Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
 
-In: Nielsen, F., Barbaresco, F. (eds) *Geometric Science of Information* (GSI 2025), Saint-Malo, France. Lecture Notes in Computer Science, vol 16034. Springer, Cham, 2026. \n
+In: Nielsen, F., Barbaresco, F. (eds) *Geometric Science of Information* (GSI 2025), Saint-Malo, France. Lecture Notes in Computer Science, vol 16034, pp. 204-213. Springer, Cham, 2026. \n
 [https://doi.org/10.1007/978-3-032-03921-7_21 \[Paper Link\]]\n
 
 We introduce stochastic variational principles for stochastic unconstrained and stochastic nonholonomically constrained systems based on Hamel's formalism. An interesting example of the stochastic rolling disk is given to demonstrate the effectivness of the proposed approach.
