@@ -1,16 +1,6 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter  
 =Publications
 
-
-#== Preprints
-
-
-
-
-
-
-
-== Journal Papers
 ~~~
 {}{img_left}{pictures/GPL.png}{alt text}{400}{180}{}
 [https://doi.org/10.2514/1.G008754 *Physics-Informed Gaussian Process Learning on Lie Groups*]\n
@@ -59,7 +49,7 @@ We study the geometric structures of n-DOF Gaussian distributions, and we propos
 ~~~
 
 
-== Conference Papers
+
 ~~~
 {}{img_left}{pictures/part2.png}{alt text}{400}{187}{}
 *[https://doi.org/10.1007/978-3-032-03921-7_23 Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator]*\n

@@ -1,18 +1,18 @@
 # jemdoc: menu{MENU}{presentations.html}, nofooter  
-=Presentations
+=Talks
 
 == Confernce Talks
 - [ Variational Principle for Stochastic Nonholonomic Systems *Part II*: Stochastic Nonholonomic Integrator]\n
-The International Conference on Geometric Science of Information (GSI'25)\n
+The International Conference on Geometric Science of Information (GSI)\n
 Saint-Malo, France, Oct-2025.\n
 
 - [ Variational Principle for Stochastic Nonholonomic Systems *Part I*: Continuous-Time Formulation]\n
-The International Conference on Geometric Science of Information (GSI'25)\n
+The International Conference on Geometric Science of Information (GSI)\n
 Saint-Malo, France, Oct-2025.\n
 
-#- [ Stochastic Hamel's Formalism for Finite-Dimensional Mechanical Systems]\n
-#The 34th Chinese Congress of Theoretical and Applied Mechanics (CCTAM)\n
-#Changsha, China, 2025.\n
+- [ Stochastic Hamel's Formalism for Finite-Dimensional Mechanical Systems]\n
+The 34th Chinese Congress of Theoretical and Applied Mechanics (CCTAM)\n
+Changsha, China, Jul-2025.\n
 
 - [ A Structure-Preserving Learning Scheme on SO(3)]\n
 The 43rd Chinese Control Conference (CCC)\n
@@ -22,13 +22,13 @@ Kunming, China, Jul-2024.\n
 International Conference on Geometric Science of Information (GSI'23)\n
 Saint-Malo, France, Aug-2023.\n
 
-#- [ A Physics-Informed Gaussian Process Regression Algorithm for the Dynamics of the Planar Pendulum]\n
-#The 42nd Chinese Control Conference (CCC)\n
-#Tianjin, China, 2023.\n
+- [ A Physics-Informed Gaussian Process Regression Algorithm for the Dynamics of the Planar Pendulum]\n
+The 42nd Chinese Control Conference (CCC)\n
+Tianjin, China, Jul-2023.\n
 
-#- [ A Statistical Dynamical Algorithm for the Dynamics of Gaussian Distributions]\n
-#The 34th Chinese Control and Decision Conference (CCDC)\n
-#Hefei, China, 2022.\n
+- [ A Statistical Dynamical Algorithm for the Dynamics of Gaussian Distributions]\n
+The 34th Chinese Control and Decision Conference (CCDC)\n
+Hefei, China, Aug-2022.\n
 
 
 
@@ -36,12 +36,16 @@ Saint-Malo, France, Aug-2023.\n
 
 
 == Invited Talks
-- [ Stochastic Nonholonomic Variational Principle]\n
+- [ Stochastic Nonholonomic Integrator]\n
+Geometric Mechanics Seminar @BIT (Organized by Prof. Donghua Shi)\n 
+School of Mathematics and Statistics, Beijing Institute of Technology (BIT), Beijing, China, Jul-2025.\n
+
+- [ Stochastic Variational Principle for Constrained Systems]\n
 Geometric Mechanics Seminar @BIT (Organized by Prof. Donghua Shi)\n 
 School of Mathematics and Statistics, Beijing Institute of Technology (BIT), Beijing, China, Jul-2024.\n
 
 - [ Geometric Structures and Optimal Control of Gaussian Distributions]\n
-Workshop on Multibody System Dynamics (Organized by Professors Qiang Tian and Haiyan Hu)\n 
+Workshop on Multibody System Dynamics @BIT (Organized by Professors Qiang Tian and Haiyan Hu)\n 
 School of Aerospace Engineering, Beijing Institute of Technology, Beijing, China, Apr-2024.\n
 
 - [ Variational Unscented Kalman Filter on Matrix Lie Groups]\n
