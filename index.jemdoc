@@ -4,33 +4,31 @@
 ~~~
 {}{img_left}{pictures/tlee10.jpg}{photo}{195}{211.96}{}
 #{}{img_left}{pictures/tlee10.jpg}{photo}{210}{228.26}{}
-Ph.D. Student \n
+*Ph.D. Student* \n
 [https://www.coe.pku.edu.cn/ Department of Mechanics and Engineering Science]\n 
 [https://amr.pku.edu.cn/ School of Advanced Manufacturing and Robotics]\n
-[https://english.pku.edu.cn/ *Peking University* (PKU)] \n
-[https://www.ntu.edu.sg/spms/about-us/mathematics/ & Division of Mathematical Sciences] \n 
-[https://www.ntu.edu.sg/ *Nanyang Technological University* (NTU)] \n
-\n
-Email (PKU): [tlee@stu.pku.edu.cn tlee@stu.pku.edu.cn] \n
-Email (NTU): [n2409573c@e.ntu.edu.sg n2409573c@e.ntu.edu.sg] \n
+[https://english.pku.edu.cn/ *Peking University* (PKU)] \n\n
+📧 Email: [tlee@stu.pku.edu.cn tlee@stu.pku.edu.cn] \n
+#Email (NTU): [n2409573c@e.ntu.edu.sg n2409573c@e.ntu.edu.sg] \n
 #YouTube: [https://www.youtube.com/%40tianzhi_li] \n
-[https://scholar.google.com/citations?hl=zh-CN&user=6d7QY0QAAAAJ *Google Scholar*] and  [https://www.researchgate.net/profile/Tianzhi-Li-3 *ResearchGate*] 
+🎓 [https://scholar.google.com/citations?hl=zh-CN&user=6d7QY0QAAAAJ *Google Scholar*] \n
+🌎 [https://www.researchgate.net/profile/Tianzhi-Li-3 *ResearchGate*] \n
 ~~~
 
 
 
 == About me
-I am a final-year PhD student at Peking University (PKU), working with Professors [https://scholar.google.com/citations?hl=zh-CN&user=mOnHMX8AAAAJ&view_op=list_works&sortby=title Zhisheng Duan] and [https://www.researchgate.net/profile/Jinzhi-Wang-2 Jinzhi Wang]. From Dec 2024 to Nov 2025, I was fortunate to work as a visiting PhD at Nanyang Technological University (NTU), Singapore, with Professor [https://francoisgaybalmaz.github.io/ François Gay-Balmaz]. Prior to that, I received my B.Sc.~in Mathematics from Beijing Institute of Technology (BIT) in 2021 under the supervision of Professor [https://scholar.google.com/citations?hl=zh-CN&user=szJq95oAAAAJ&view_op=list_works&sortby=pubdate Donghua Shi]. \n
+I am a final-year PhD student at Peking University (PKU), working with Professors [https://scholar.google.com/citations?hl=zh-CN&user=mOnHMX8AAAAJ&view_op=list_works Zhisheng Duan] and [https://www.researchgate.net/profile/Jinzhi-Wang-2 Jinzhi Wang]. From Dec 2024 to Nov 2025, I was fortunate to work as a visiting PhD at Nanyang Technological University (NTU), Singapore, with Professor [https://francoisgaybalmaz.github.io/ François Gay-Balmaz]. Prior to that, I received my B.Sc.~in Mathematics from Beijing Institute of Technology (BIT) in 2021 under the supervision of Professor [https://scholar.google.com/citations?hl=zh-CN&user=szJq95oAAAAJ&view_op=list_works Donghua Shi]. \n
 
 
 
 
 == Research Interest
-My research interest lies at geometric modeling and simulation of dynamical systems, which includes the following topics:\n
-- *Geometric Mechanics & Control* (especially Stochastic & Nonholonomic)\n
-- *Geometric Numerical Integration* (Variational Integrators)\n
-- *Geometric Estimation and Filtering* (for Robot Systems & Flexible Systems)\n
-- *Physics-Informed Learning on Manifolds*\n
+My research interest lies at geometric modeling and control of dynamical systems, which includes the following topics:\n
+- *Geometric Mechanics & Control* (especially stochastic & nonholonomic parts)\n
+- *Geometric Numerical Integration* (for ODEs and PDEs)\n
+- *Geometric Estimation and Filtering* (for robot systems & flexible systems)\n
+- *Physics-Informed Learning on Manifolds* (for robotic and mechanical systems)\n
 
 
 
@@ -89,25 +87,25 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 
 
 == News
-- *Sep 2025*: I am so happy and excited to recieve the *National Scholarship* (top 1%) from Chinese Ministry of Education!
+- *Sep 2025*: I am so happy and excited to recieve the *National Scholarship* (top 1%) from Ministry of Education, China!
 
 - *Aug 2025*: Our paper [https://doi.org/10.1109/LCSYS.2025.3601664 *Structure-Preserving Unscented Kalman Filter for Planar Mobile Robots*] has been accepted to IEEE Control Systems Letters (*IEEE L-CSS*).
 
 - *Aug 2025*: Our paper [https://doi.org/10.2514/1.G008754 *Physics-Informed Gaussian Process Learning on Lie Groups*] has been accepted to Journal of Guidance, Control, and Dynamics (*JGCD*).
 
-- *Jul 2025*: Our two papers [ *Variational Principle for Stochastic Nonholonomic Systems Part I* & *Part II*] (joint work with Professors [https://dr.ntu.edu.sg/cris/rp/rp02301 François Gay-Balmaz], [https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/sdh/index.htm Donghua Shi], and [https://www.coe.pku.edu.cn/teaching/all_time/7249.html Jinzhi Wang]) have been accepted by the International Conference on Geometric Science of Information (*GSI 2025*).
+- *Jul 2025*: Our two papers [https://doi.org/10.1007/978-3-032-03921-7_21 *Variational Principle for Stochastic Nonholonomic Systems Part I* & *Part II*] (joint work with Professors [https://francoisgaybalmaz.github.io/ François Gay-Balmaz], [https://scholar.google.com/citations?hl=zh-CN&user=szJq95oAAAAJ&view_op=list_works Donghua Shi], and [https://www.researchgate.net/profile/Jinzhi-Wang-2 Jinzhi Wang]) have been accepted by the International Conference on Geometric Science of Information (*GSI 2025*).
 
-- *Jun 2025*: I am humbled and beyond grateful to recieve the *PKU Presidential Doctoral Scholarship* (2025-2026)!
+- *Jun 2025*: I am humbled and beyond grateful to recieve the *Presidential Doctoral Scholarship* from Peking University!
 
-- *Dec 2024*: I am so happy and excited to be a visiting student under the supervision of [https://dr.ntu.edu.sg/cris/rp/rp02301 Prof. François Gay-Balmaz] at Nanyang Technological University (NTU) in Singapore!
+#- *Dec 2024*: I am so happy and excited to be a visiting student under the supervision of [https://dr.ntu.edu.sg/cris/rp/rp02301 Prof. François Gay-Balmaz] at Nanyang Technological University (NTU) in Singapore!
 
 - *Nov 2024*: I am very honored to recieve the *PKU-CoE Dean's Scholarship-First Prize*, 2024-2025!
 
 - *Sep 2024*: Our paper [https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*] has been accepted to *Automatica*.
 
-- *Jul 2024*: I was thrilled to present "Stochastic Nonholonomic Variational Principle" at the Geometric Mechanics & Control Seminar (BIT) organized by [https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/sdh/index.htm Prof. Donghua Shi]. The discussion with [http://www.yoshimura.mech.waseda.ac.jp/Professor.html Prof. Hiroaki Yoshimura] and [http://www.peng.mech.keio.ac.jp/faculty/index.html Prof. Linyu Peng] was very insightful and interesting!
+- *Jul 2024*: I was thrilled to present "Stochastic Nonholonomic Variational Principle" at the Geometric Mechanics & Control Seminar (BIT) organized by [https://scholar.google.com/citations?hl=zh-CN&user=szJq95oAAAAJ&view_op=list_works Prof. Donghua Shi]. The discussion with [http://www.yoshimura.mech.waseda.ac.jp/Professor.html Prof. Hiroaki Yoshimura] and [http://www.peng.mech.keio.ac.jp/faculty/index.html Prof. Linyu Peng] was very insightful and interesting!
 
-- *Jul 2024*: I am so happy to announce that I am awarded the *CSC Scholarship*! I will be a visiting student of [https://dr.ntu.edu.sg/cris/rp/rp02301 Prof. François Gay-Balmaz] at Nanyang Technological University (NTU) for a 12-month academic visit.
+- *Jul 2024*: I am so happy to announce that I am awarded the *Visiting PhD Scholarship*! I will be a visiting student of [https://francoisgaybalmaz.github.io/ Prof. François Gay-Balmaz] at Nanyang Technological University (NTU) for a 12-month academic visit.
 
 - *Apr 2024*: I was thrilled to give a talk about my PhD work at Beijing Institute of Technology (BIT) invited by [https://sae.bit.edu.cn/szdw20/szml/lxcx20/zgjzcapypx_3/b187454.htm Prof. Qiang Tian] and [https://hhy.nuaa.edu.cn/2024/0529/c12018a341286/page.htm Prof. Ju Chen]. The discussion was very insightful and interesting!
 
