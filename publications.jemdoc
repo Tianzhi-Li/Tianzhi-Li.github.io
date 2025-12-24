@@ -51,7 +51,7 @@ We study the geometric structures of n-DOF Gaussian distributions, and we propos
 
 
 ~~~
-{}{img_left}{pictures/part2.png}{alt text}{400}{187}{}
+{}{img_left}{pictures/Sto_Part_2.png}{alt text}{400}{187}{}
 *[https://doi.org/10.1007/978-3-032-03921-7_23 Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator]*\n
 Tianzhi Li, François Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
 
@@ -73,7 +73,7 @@ We introduce stochastic variational principles for stochastic unconstrained and 
 ~~~
 
 ~~~
-{}{img_left}{pictures/UKF-Beam.png}{alt text}{400}{187}{}
+{}{img_left}{pictures/beam2.png}{alt text}{400}{187}{}
 [https://doi.org/10.1007/978-3-031-38299-4_7 *Multisymplectic Unscented Kalman Filter for Geometrically Exact Beams*]\n
 Tianzhi Li and Jinzhi Wang\n
 
