@@ -1,5 +1,9 @@
 /* Default css file for jemdoc. */
 
+#Awards tr.r1 { font-weight: bold; }
+#Awards tr:nth-child(even) {background-color: #f2f2f2;}
+#Awards tr {text-align: left; border: 1px solid gray;}
+
 table#tlayout {
     border: none;
     border-collapse: separate;
