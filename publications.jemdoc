@@ -110,11 +110,11 @@ We introduce a Gaussian process regression algorithm for the prediction of plana
 
 ~~~
 {}{img_left}{pictures/CCDC2022.png}{alt text}{400}{187}{}
-[https://doi.org/CCDC55256.2022.10033975 *A Statistical Dynamical Algorithm for Gaussian Multi-Agent Systems Under Hamel's Formalism*]\n
+[https://doi.org/10.1109/CCDC55256.2022.10033975 *A Statistical Dynamical Algorithm for Gaussian Multi-Agent Systems Under Hamel's Formalism*]\n
 Tianzhi Li and Jinzhi Wang\n
 
 34th *IEEE Chinese Control and Decision Conference* (CCDC), Hefei, China, pp. 1344-1349, 2022.\n
-[https://doi.org/CCDC55256.2022.10033975 \[Paper Link\]]\n
+[https://doi.org/10.1109/CCDC55256.2022.10033975 \[Paper Link\]]\n
 
 We study the geometric structure of n-DOF Gaussian distributions (normal distributions) using Lie group and homogeneous manifold theories. In particular, the metric matrix and the Lagrangian of the system is determined and the discrete dynamics is derived using a discrete variational principle. The resulting geometric integrator for n-DOF Gaussian distributions exhibits properties of energy conservation compared with Runge-Kutta method.
 ~~~
