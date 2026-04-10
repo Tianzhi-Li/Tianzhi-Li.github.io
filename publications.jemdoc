@@ -1,6 +1,24 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter  
 =Publications
 
+== Preprints
+~~~
+{}{img_left}{pictures/Stochastic-Beam.png}{alt text}{400}{180}{}
+[https://tianzhi-li.github.io/Stochastic-Beam *Stochastic geometrically exact beam: Continuous-time geometric principles and variational discretizations*]\n
+Minghang Du, Tianzhi Li, and Donghua Shi\n
+
+In preparation, 2026.\n
+[https://tianzhi-li.github.io/Stochastic-Beam \[Website\]]\n
+
+We introduce stochastic variational principles for stochastic geometrically exact beams in both continuous- and discrete-time settings. The resulting stochastic variational integrators are shown to be stochastic extensions of the well-known staggered leapfrog scheme for the wave equation, and also stochastic extensions of Yee's scheme for spatially one-dimensional computational electromagnetism. 
+~~~
+
+
+
+
+
+
+== Published Papers
 ~~~
 {}{img_left}{pictures/GPL.png}{alt text}{400}{180}{}
 [https://doi.org/10.2514/1.G008754 *Physics-Informed Gaussian Process Learning on Lie Groups*]\n
