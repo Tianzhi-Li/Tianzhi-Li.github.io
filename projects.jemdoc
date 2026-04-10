@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{projects.html}, nofooter  
+=Projects
+
+== 2026
+~~~
+{}{img_left}{pictures/Stochastic-Beam.gif}{alt text}{400}{300}{}
+[ *Stochastic geometrically exact beam: Continuous-time geometric principles and variational discretizations*]\n
+Minghang Du, Tianzhi Li, and Donghua Shi\n
+
+[https://tianzhi-li.github.io/Stochastic-Beam \[Website\]]     [https://tianzhi-li.github.io/Stochastic-Beam \[Paper\]]\n
+
+This work presents variational principles for the dynamics of the stochastic geometrically exact beam, in both continuous- and discrete-time settings. The resulting two structure-preserving stochastic geometric integrators are shown to be stochastic extensions of the well-known deterministic staggered leapfrog scheme for the wave equation, and also stochastic extensions of Yee's scheme for spatially one-dimensional computational electromagnetism. Numerical results are shown to demonstrate the effectiveness of the proposed approaches.
+~~~

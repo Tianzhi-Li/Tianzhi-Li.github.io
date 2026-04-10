@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3318d55f-5f93-4d6c-9934-bb382597b686" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/awards.html" beforeDir="false" afterPath="$PROJECT_DIR$/awards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/awards.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/awards.jemdoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jemdoc.css" beforeDir="false" afterPath="$PROJECT_DIR$/jemdoc.css" afterDir="false" />
-    </list>
+    <list default="true" id="3318d55f-5f93-4d6c-9934-bb382597b686" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
