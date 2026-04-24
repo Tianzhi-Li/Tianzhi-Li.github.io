@@ -3,7 +3,7 @@
 
 == Preprints
 ~~~
-{}{img_left}{pictures/Stochastic-Beam.png}{alt text}{400}{180}{}
+{}{img_left}{pictures/Stochastic-Beam.png}{alt text}{298}{180}{}
 [https://tianzhi-li.github.io/Stochastic-Beam *Stochastic geometrically exact beam: Continuous-time geometric principles and variational discretizations*]\n
 Minghang Du, François Gay-Balmaz, Tianzhi Li, and Donghua Shi\n
 
@@ -20,19 +20,7 @@ We introduce stochastic variational principles for stochastic geometrically exac
 
 == Published Papers
 ~~~
-{}{img_left}{pictures/GPL.png}{alt text}{400}{180}{}
-[https://doi.org/10.2514/1.G008754 *Physics-Informed Gaussian Process Learning on Lie Groups*]\n
-Tianzhi Li and Jinzhi Wang\n
-
-*Journal of Guidance, Control, and Dynamics*, 48 (11), pp. 2654-2662, 2025.\n
-[https://doi.org/10.2514/1.G008754 \[Paper Link\]]\n
-
-We introduce a physics-informed Gaussian process learning method for mechanical systems on Lie groups and on a special class of homogeneous manifolds based on discrete mechanics theory.
-~~~
-
-
-~~~
-{}{img_left}{pictures/UKFV2.jpg}{alt text}{400}{180}{}
+{}{img_left}{pictures/UKFV6.png}{alt text}{298}{180}{}
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*]\n
 Tianzhi Li and Jinzhi Wang\n
 
@@ -42,21 +30,8 @@ Tianzhi Li and Jinzhi Wang\n
 We propose a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
 ~~~
 
-
 ~~~
-{}{img_left}{pictures/SP-UKF.png}{alt text}{400}{180}{}
-[https://doi.org/10.1109/LCSYS.2025.3601664 *Structure-Preserving Unscented Kalman Filter for Planar Mobile Robots*]\n
-Tianzhi Li, Jinzhi Wang, and Zhisheng Duan\n
-
-*IEEE Control Systems Letters*, vol. 9, pp. 2157-2162, 2025.\n
-[https://doi.org/10.1109/LCSYS.2025.3601664 \[Paper Link\]]\n
-
-We introduce a structure-preserving filtering method (called SP-UKF) for constrained planar mobile robots. The proposed SP-UKF is energy-conserving, constraint-preserving, and manifold-structure-preserving.
-~~~
-
-
-~~~
-{}{img_left}{pictures/thermo2.jpg}{alt text}{400}{187}{}
+{}{img_left}{pictures/thermo6.png}{alt text}{298}{180}{}
 [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced Dynamics and Geometric Optimal Control of Nonequilibrium Thermodynamics: Gaussian Case*]\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n
 
@@ -66,21 +41,47 @@ Tianzhi Li, Rui Fu, and Jinzhi Wang\n
 We study the geometric structures of n-DOF Gaussian distributions, and we propose a geometric optimal control algorithm for minimum-energy optimal control problem of Gaussian distributions.
 ~~~
 
+~~~
+{}{img_left}{pictures/GPL6.png}{alt text}{298}{180}{}
+[https://doi.org/10.2514/1.G008754 *Physics-Informed Gaussian Process Learning on Lie Groups*]\n
+Tianzhi Li and Jinzhi Wang\n
+
+*Journal of Guidance, Control, and Dynamics*, 48 (11), pp. 2654-2662, 2025.\n
+[https://doi.org/10.2514/1.G008754 \[Paper Link\]]\n
+
+We introduce a physics-informed Gaussian process learning method for mechanical systems on Lie groups and on a special class of homogeneous manifolds based on discrete mechanics theory.
+~~~
+
+~~~
+{}{img_left}{pictures/SP-UKF6.png}{alt text}{298}{180}{}
+[https://doi.org/10.1109/LCSYS.2025.3601664 *Structure-Preserving Unscented Kalman Filter for Planar Mobile Robots*]\n
+Tianzhi Li, Jinzhi Wang, and Zhisheng Duan\n
+
+*IEEE Control Systems Letters*, vol. 9, pp. 2157-2162, 2025.\n
+[https://doi.org/10.1109/LCSYS.2025.3601664 \[Paper Link\]]\n
+
+We introduce a structure-preserving filtering method (SP-UKF) for constrained planar mobile robots. The proposed SP-UKF is energy-conserving, constraint-preserving, and manifold-structure-preserving.
+~~~
+
+
+
+
 
 
 ~~~
-{}{img_left}{pictures/Sto_Part_2.png}{alt text}{400}{187}{}
+{}{img_left}{pictures/Sto_Part_2.png}{alt text}{298}{180}{}
 *[https://doi.org/10.1007/978-3-032-03921-7_23 Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator]*\n
 Tianzhi Li, François Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
 
 In: Nielsen, F., Barbaresco, F. (eds) *Geometric Science of Information* (GSI 2025), Saint-Malo, France. Lecture Notes in Computer Science, vol 16034, pp. 225-233. Springer, Cham, 2026. \n
 [https://doi.org/10.1007/978-3-032-03921-7_23 \[Paper Link\]]\n
 
-We propose stochastic discrete variational principles for stochastic nonholonomic systems and construct the associated stochastic nonholonomic integrator based on Hamel's formalism. The links between the proposed approach and existing geometric numrical integration methods (such as Verlet method, sysmplectic-momentum integrator, and Hamel integrator) are analyzed. 
+We propose stochastic discrete variational principles for stochastic nonholonomic systems and construct a stochastic nonholonomic integrator. 
+#The links between the proposed approach and existing geometric numrical integration methods (such as Verlet method, sysmplectic-momentum integrator, and Hamel integrator) are analyzed. 
 ~~~
 
 ~~~
-{}{img_left}{pictures/part1.png}{alt text}{400}{187}{}
+{}{img_left}{pictures/part1.png}{alt text}{298}{180}{}
 *[https://doi.org/10.1007/978-3-032-03921-7_21 Variational Principle for Stochastic Nonholonomic Systems Part I: Continuous-Time Formulation]*\n
 Tianzhi Li, François Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
 
@@ -91,19 +92,20 @@ We introduce stochastic variational principles for stochastic unconstrained and 
 ~~~
 
 ~~~
-{}{img_left}{pictures/beam2.png}{alt text}{400}{187}{}
+{}{img_left}{pictures/beam6.png}{alt text}{298}{180}{}
 [https://doi.org/10.1007/978-3-031-38299-4_7 *Multisymplectic Unscented Kalman Filter for Geometrically Exact Beams*]\n
 Tianzhi Li and Jinzhi Wang\n
 
 In: Nielsen, F., Barbaresco, F. (eds) *Geometric Science of Information* (GSI 2023), Saint-Malo, France. Lecture Notes in Computer Science, vol 14072. Springer, Cham, 2023.\n
 [https://doi.org/10.1007/978-3-031-38299-4_7 \[Paper Link\]]\n
 
-We propose a geometric estimation algorithm for geometrically exact beams based on geometric mechanics and classical field theory. The structure-preserving property of the proposed filter is demonstrated by numerical results.
+We propose a geometric estimation algorithm for geometrically exact beams based on geometric mechanics and classical field theory. 
+#The structure-preserving property of the proposed filter is demonstrated by numerical results.
 ~~~
 
 
 ~~~
-{}{img_left}{pictures/CCC2024.png}{alt text}{400}{187}{}
+{}{img_left}{pictures/CCC2024.png}{alt text}{298}{180}{}
 [https://doi.org/10.23919/CCC63176.2024.10662579 *A Structure-Preserving Learning Scheme on SO(3)*]\n
 Tianzhi Li and Jinzhi Wang\n
 
@@ -115,19 +117,20 @@ We propose a physics-guided Gaussian learning method for SO(3) attitude dynamics
 
 
 ~~~
-{}{img_left}{pictures/CCC2023.png}{alt text}{400}{187}{}
+{}{img_left}{pictures/CCC2023.png}{alt text}{298}{161.4}{}
 [https://doi.org/10.23919/CCC58697.2023.10240513 *A Physics-Informed Gaussian Process Regression Algorithm for The Dynamics of The Planar Pendulum*]\n
 Tianzhi Li and Jinzhi Wang\n
 
 42nd *IEEE Chinese Control Conference* (CCC), Tianjin, China, pp. 5163-5167, 2023.\n
 [https://doi.org/10.23919/CCC58697.2023.10240513 \[Paper Link\]]\n
 
-We introduce a Gaussian process regression algorithm for the prediction of planar pendulum dynamics. Numerical results show that the proposed method preserves some key numerical quantities of the system, including the numerical energy and the physical length of the pendulum.
+We introduce a Gaussian process regression algorithm for the prediction of planar pendulum dynamics. 
+#Numerical results show that the proposed method preserves some key numerical quantities of the system, including the numerical energy and the physical length of the pendulum.
 ~~~
 
 
 ~~~
-{}{img_left}{pictures/CCDC2022.png}{alt text}{400}{187}{}
+{}{img_left}{pictures/CCDC2022.png}{alt text}{298}{180}{}
 [https://doi.org/10.1109/CCDC55256.2022.10033975 *A Statistical Dynamical Algorithm for Gaussian Multi-Agent Systems Under Hamel's Formalism*]\n
 Tianzhi Li and Jinzhi Wang\n
 

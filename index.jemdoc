@@ -2,7 +2,7 @@
 ==Tianzhi Li  李天志
 
 ~~~
-{}{img_left}{pictures/tlee2.jpg}{photo}{168}{168}{}
+{}{img_left}{pictures/TL666.jpg}{photo}{200}{200}{}
 #{}{img_left}{pictures/tlee10.jpg}{photo}{210}{228.26}{}
 *Ph.D. Student* \n
 [https://www.coe.pku.edu.cn/ Department of Mechanics and Engineering Science]\n 
@@ -38,7 +38,7 @@ My research interest lies at geometric control and learning of robotic and mecha
 
 == Selected Research
 ~~~
-{}{img_left}{pictures/UKFV2.jpg}{alt text}{400}{180}{}
+{}{img_left}{pictures/UKFV6.png}{alt text}{298}{180}{}
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*]\n
 Tianzhi Li and Jinzhi Wang\n
 
@@ -49,7 +49,7 @@ We propose a family of computationally efficient unscented Kalman filters (UKF-V
 ~~~
 
 ~~~
-{}{img_left}{pictures/thermo2.jpg}{alt text}{400}{187}{}
+{}{img_left}{pictures/thermo6.png}{alt text}{298}{180}{}
 [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced Dynamics and Geometric Optimal Control of Nonequilibrium Thermodynamics: Gaussian Case*]\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n
 
@@ -60,7 +60,7 @@ We study the geometric structures of n-DOF Gaussian distributions, and we propos
 ~~~
 
 ~~~
-{}{img_left}{pictures/GPL.png}{alt text}{400}{180}{}
+{}{img_left}{pictures/GPL6.png}{alt text}{298}{180}{}
 [https://doi.org/10.2514/1.G008754 *Physics-Informed Gaussian Process Learning on Lie Groups*]\n
 Tianzhi Li and Jinzhi Wang\n
 
