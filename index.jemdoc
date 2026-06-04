@@ -38,7 +38,7 @@ My research interest lies at geometric control and learning of robotic and mecha
 
 == Selected Research
 ~~~
-{}{img_left}{pictures/UKFV.png}{alt text}{298}{180}{}
+{}{img_left}{pictures/UKFV.png}{alt text}{298}{165}{}
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*]\n
 Tianzhi Li and Jinzhi Wang\n
 
@@ -49,7 +49,7 @@ We propose a family of computationally efficient unscented Kalman filters (UKF-V
 ~~~
 
 ~~~
-{}{img_left}{pictures/thermo.png}{alt text}{298}{180}{}
+{}{img_left}{pictures/thermo.png}{alt text}{298}{165}{}
 [https://doi.org/10.1016/j.automatica.2024.111626 *Reduced Dynamics and Geometric Optimal Control of Nonequilibrium Thermodynamics: Gaussian Case*]\n
 Tianzhi Li, Rui Fu, and Jinzhi Wang\n
 
@@ -60,7 +60,7 @@ We study the geometric structures of n-DOF Gaussian distributions, and we propos
 ~~~
 
 ~~~
-{}{img_left}{pictures/GPL.png}{alt text}{298}{180}{}
+{}{img_left}{pictures/GPL.png}{alt text}{298}{165}{}
 [https://doi.org/10.2514/1.G008754 *Physics-Informed Gaussian Process Learning on Lie Groups*]\n
 Tianzhi Li and Jinzhi Wang\n
 
