@@ -92,15 +92,14 @@ We introduce stochastic variational principles for stochastic unconstrained and 
 ~~~
 
 ~~~
-{}{img_left}{pictures/beam.png}{alt text}{298}{165}{}
+{}{img_left}{pictures/UKF-Beam.png}{alt text}{298}{165}{}
 [https://doi.org/10.1007/978-3-031-38299-4_7 *Multisymplectic Unscented Kalman Filter for Geometrically Exact Beams*]\n
 Tianzhi Li and Jinzhi Wang\n
 
 In: Nielsen, F., Barbaresco, F. (eds) *Geometric Science of Information* (GSI 2023), Saint-Malo, France. Lecture Notes in Computer Science, vol 14072. Springer, Cham, 2023.\n
 [https://doi.org/10.1007/978-3-031-38299-4_7 \[Paper Link\]]\n
 
-We propose a geometric estimation algorithm for geometrically exact beams based on geometric mechanics and classical field theory. 
-#The structure-preserving property of the proposed filter is demonstrated by numerical results.
+We propose a geometric estimation algorithm for geometrically exact beams based on geometric mechanics and classical field theory.
 ~~~
 
 
