@@ -4,13 +4,23 @@
 == Preprints
 ~~~
 {}{img_left}{pictures/Stochastic-Beam.png}{alt text}{298}{165}{}
-[https://tianzhi-li.github.io/Stochastic-Beam *Stochastic geometrically exact beam: Continuous-time geometric principles and variational discretizations*]\n
+[https://tianzhi-li.github.io/Stochastic-Beam *Stochastic Geometrically Exact Beam: Continuous-Time Geometric Principles and Variational Discretizations*]\n
 Minghang Du, François Gay-Balmaz, Tianzhi Li, and Donghua Shi\n
 
 In preparation, 2026.\n
 [https://tianzhi-li.github.io/Stochastic-Beam \[Website\]]\n
 
 We introduce stochastic variational principles for stochastic geometrically exact beams in both continuous- and discrete-time settings. The resulting stochastic variational integrators are shown to be stochastic extensions of the well-known staggered leapfrog scheme for the wave equation, and also stochastic extensions of Yee's scheme for spatially one-dimensional computational electromagnetism. 
+~~~
+
+~~~
+{}{img_left}{pictures/DataDrivenRobust.png}{alt text}{298}{165}{}
+[ *On the Robustness in Data-Driven Nonlinear Optimal Control: From Stability to Optimality*]\n
+Yicheng Lin, Zhisheng Duan, Tianzhi Li, Bingxian Wu, and Zhiyong Sun\n
+
+Under review on IEEE Transactions on Automatic Control, 2026.\n
+
+This paper investigates how the model mismatch propagates through the optimal control structure and alters the resulting optimality in data-driven nonlinear control.
 ~~~
 
 
