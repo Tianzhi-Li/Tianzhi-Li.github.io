@@ -18,17 +18,17 @@ Incoming *Postdoctoral Fellow* ([ Shun Hing Fellow]) \n
 
 
 == About me
-I am an incoming [ Shun Hing Postdoctoral Fellow] at the [https://cuhk.edu.hk/english/aboutus/message.html *Chinese University of Hong Kong* (CUHK)], working with [https://zyliatzju.github.io/ Prof. Zhongyu Li]. I received my Ph.D. in Mechanics \& Control from [https://english.pku.edu.cn/ *Peking University* (PKU)] in June 2026, working with [https://www.researchgate.net/profile/Jinzhi-Wang-2 Prof. Jinzhi Wang] and [https://scholar.google.com/citations?hl=zh-CN&user=mOnHMX8AAAAJ&view_op=list_works Prof. Zhisheng Duan]. From Dec-2024 to Dec-2025, I was a visiting researcher at [https://www.ntu.edu.sg/ *Nanyang Technological University* (NTU)], Singapore, advised by [https://francoisgaybalmaz.github.io/ Prof.François Gay-Balmaz]. Prior to that, I received my B.Sc.~in Mathematics from [https://english.bit.edu.cn/ *Beijing Institute of Technology* (BIT)] in 2021 under the supervision of [https://scholar.google.com/citations?hl=zh-CN&user=szJq95oAAAAJ&view_op=list_works Prof.Donghua Shi]. \n
+I am an incoming [ Shun Hing Postdoctoral Fellow] at the [https://cuhk.edu.hk/english/aboutus/message.html *Chinese University of Hong Kong*] (CUHK), working with [https://zyliatzju.github.io/ Prof. Zhongyu Li]. I received my Ph.D. in Mechanics \& Control from [https://english.pku.edu.cn/ *Peking University*] (PKU) in June 2026, working with [https://www.researchgate.net/profile/Jinzhi-Wang-2 Prof. Jinzhi Wang] and [https://scholar.google.com/citations?hl=zh-CN&user=mOnHMX8AAAAJ&view_op=list_works Prof. Zhisheng Duan]. From Dec-2024 to Dec-2025, I was a visiting researcher at [https://www.ntu.edu.sg/ *Nanyang Technological University*] (NTU), Singapore, advised by [https://francoisgaybalmaz.github.io/ Prof. François Gay-Balmaz]. Prior to that, I received my B.Sc.~in Mathematics from [https://english.bit.edu.cn/ *Beijing Institute of Technology*] (BIT) in 2021 under the supervision of [https://scholar.google.com/citations?hl=zh-CN&user=szJq95oAAAAJ&view_op=list_works Prof. Donghua Shi]. \n
 
 
 
 
 == Research Interest
-My research interest lies at geometric control and learning of robotic and mechanical systems, which includes the following topics:\n
-- *Geometric Mechanics & Control* (especially stochastic & nonholonomic parts)\n
-- *Physics-Informed Learning* (for robotic and mechanical systems)\n
-- *Structure-Preserving Discretization* (variational integrators for ODEs/PDEs)\n
-- *Stochastic Mechanics and Estimation* (for robot systems & flexible systems)\n
+I develop geometric methods with structure-preserving properties for robot learning & control. \n
+- Geometric Mechanics (especially stochastic & nonholonomic systems) \n
+- Geometric Safety-Critical Control (for humanoid robots) \n
+- Geometric Robot Learning for Humanoids \n
+- Structure-Preserving Discretization (variational integrators) \n
 
 
 
@@ -37,6 +37,17 @@ My research interest lies at geometric control and learning of robotic and mecha
 
 
 == Selected Research
+~~~
+{}{img_left}{pictures/Sto_Part_2.png}{alt text}{298}{165}{}
+*[https://doi.org/10.1007/978-3-032-03921-7_23 Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator]*\n
+Tianzhi Li, François Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
+
+*International Conference on Geometric Science of Information* (GSI 2025). Lecture Notes in Computer Science, vol 16034, pp. 225-233. Springer, Cham, 2026. \n
+[https://doi.org/10.1007/978-3-032-03921-7_23 \[Paper Link\]]\n
+
+We propose stochastic discrete variational principles for stochastic nonholonomic systems and construct the associated stochastic nonholonomic integrator.
+~~~
+
 ~~~
 {}{img_left}{pictures/UKFV.png}{alt text}{298}{165}{}
 [https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*]\n
@@ -71,16 +82,7 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 ~~~
 
 
-#~~~
-#{}{img_left}{pictures/Sto_Part_2.png}{alt text}{400}{187}{}
-#*[https://doi.org/10.1007/978-3-032-03921-7_23 Variational Principle for Stochastic Nonholonomic Systems Part II: Stochastic Nonholonomic Integrator]*\n
-#Tianzhi Li, François Gay-Balmaz, Donghua Shi, and Jinzhi Wang\n
-#
-#*International Conference on Geometric Science of Information* (GSI 2025), Saint-Malo, France. Lecture Notes in Computer Science, vol 16034, pp. 225-233. Springer, Cham, 2026. \n
-#[https://doi.org/10.1007/978-3-032-03921-7_23 \[Paper Link\]]\n
-#
-#We propose stochastic discrete variational principles for stochastic nonholonomic systems and construct the associated stochastic nonholonomic integrator.
-#~~~
+
 
 
 
@@ -89,7 +91,7 @@ We introduce a physics-informed Gaussian process learning method for mechanical 
 ~~~
 - *Jun 2026*: Today (June 30) I attended a wonderful [ *graduation ceremony*] with my family at AMR, PKU. So excited to enjoy this happy moment! 
 
-- *May 2026*: I am so happy that I defended my PhD thesis on 13 May and received the honor of [ *Outstanding Graduate of Beijing*]!
+- *May 2026*: I am so happy that I defended my PhD thesis on 13 May and received the honor of [ *Outstanding Graduate of Beijing*].
 
 #- *Sep 2025*: I am so happy and excited to recieve the *National Scholarship* (top 1%) from Ministry of Education, China.
 
