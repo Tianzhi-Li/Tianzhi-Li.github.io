@@ -8,7 +8,7 @@
 Minghang Du, François Gay-Balmaz, Tianzhi Li, and Donghua Shi\n
 
 In preparation, 2026.\n
-[https://tianzhi-li.github.io/Stochastic-Beam \[Website\]]\n
+[https://tianzhi-li.github.io/Stochastic-Beam \[Project Page\]]\n
 
 We introduce stochastic variational principles for stochastic geometrically exact beams in both continuous- and discrete-time settings. The resulting stochastic variational integrators are shown to be stochastic extensions of the well-known staggered leapfrog scheme for the wave equation, and also stochastic extensions of Yee's scheme for spatially one-dimensional computational electromagnetism. 
 ~~~
@@ -35,7 +35,7 @@ We introduce stochastic variational principles for stochastic geometrically exac
 Tianzhi Li and Jinzhi Wang\n
 
 *Automatica*, 172: 111995, 2025 (*Regular Paper*).\n
-[https://doi.org/10.1016/j.automatica.2024.111995 \[Paper Link\]]\n
+[https://doi.org/10.1016/j.automatica.2024.111995 \[Paper Link\]]      [https://tianzhi-li.github.io/UKF-V-on-Lie-Groups \[Project Page\]]\n
 
 We propose a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
 ~~~

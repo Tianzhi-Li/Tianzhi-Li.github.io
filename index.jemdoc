@@ -54,7 +54,7 @@ We propose stochastic discrete variational principles for stochastic nonholonomi
 Tianzhi Li and Jinzhi Wang\n
 
 *Automatica*, 172: 111995, 2025 (Regular Paper).\n
-[https://doi.org/10.1016/j.automatica.2024.111995 \[Paper Link\]]\n
+[https://doi.org/10.1016/j.automatica.2024.111995 \[Paper Link\]] [https://tianzhi-li.github.io/UKF-V-on-Lie-Groups \[Project Page\]]\n
 
 We propose a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
 ~~~
