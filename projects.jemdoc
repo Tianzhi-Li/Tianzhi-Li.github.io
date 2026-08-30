@@ -1,13 +1,25 @@
-# jemdoc: menu{MENU}{software.html}, nofooter  
-=Software
+# jemdoc: menu{MENU}{projects.html}, nofooter  
+=Projects
 
-== 2026
 ~~~
 {}{img_left}{pictures/Stochastic-Beam.gif}{alt text}{400}{300}{}
 [ *Stochastic geometrically exact beam: Continuous-time geometric principles and variational discretizations*]\n
 Minghang Du, François Gay-Balmaz, Tianzhi Li, and Donghua Shi\n
 
-[https://tianzhi-li.github.io/Stochastic-Beam \[Website\]]     [https://tianzhi-li.github.io/Stochastic-Beam \[Paper\]]\n
+[https://tianzhi-li.github.io/Stochastic-Beam \[Project Page\]]     [https://tianzhi-li.github.io/Stochastic-Beam \[Paper\]]\n
 
 This work presents variational principles for the dynamics of the stochastic geometrically exact beam, in both continuous- and discrete-time settings. The resulting two structure-preserving stochastic geometric integrators are shown to be stochastic extensions of the well-known deterministic staggered leapfrog scheme for the wave equation, and also stochastic extensions of Yee's scheme for spatially one-dimensional computational electromagnetism. Numerical results are shown to demonstrate the effectiveness of the proposed approaches.
+~~~
+
+
+
+~~~
+{}{img_left}{pictures/UKFV.gif}{alt text}{400}{150}{}
+[https://doi.org/10.1016/j.automatica.2024.111995 *Variational Unscented Kalman Filter on Matrix Lie Groups*]\n
+Tianzhi Li and Jinzhi Wang\n
+*Automatica*, 172: 111995, 2025 (Regular Paper).
+
+[https://tianzhi-li.github.io/UKF-V-on-Lie-Groups \[Project Page\]]     [https://doi.org/10.1016/j.automatica.2024.111995 \[Paper\]]\n
+
+This work presents proposes a family of computationally efficient unscented Kalman filters (UKF-Vs) for mechanical systems on matrix Lie groups.
 ~~~
